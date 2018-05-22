@@ -1,0 +1,6 @@
+.gtignore
+analyze.php
+/app/dummy-translation-calls.php
+/js/lib/gettext/Gettext.js
+/nbproject/
+/files/

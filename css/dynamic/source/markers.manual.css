@@ -1,0 +1,456 @@
+  /* ===========================================================================
+    BODY
+  =========================================================================== */
+
+  html, body,
+  #main {
+    color: BODY_COLOR;
+    background: BODY_BACKGROUND;
+  }
+  
+  #main.alternate {
+    background: repeating-linear-gradient(-45deg, BODY_ALTERNATE_BACKGROUND_ONE, BODY_ALTERNATE_BACKGROUND_TWO 30px);
+    color: BODY_ALTERNATE_COLOR;
+  }
+
+  /* ===========================================================================
+    MAIN TITLE
+  =========================================================================== */
+
+  h1, h2, h3 {
+    background: MAINTITLE_BACKGROUND;
+    color: MAINTITLE_COLOR;
+    border: 1px solid MAINTITLE_BORDER;
+  }
+  
+  /* ===========================================================================
+    DIALOGS
+  =========================================================================== */
+
+  #dialog-container {
+    background: DIALOG_NORMAL_BACKGROUND;
+    color: DIALOG_NORMAL_COLOR;
+  }
+  
+  #dialog-container.warning {
+    background: DIALOG_WARNING_BACKGROUND;
+    color: DIALOG_WARNING_COLOR;
+  }
+  
+  #dialog-container.error {
+    background: DIALOG_ERROR_BACKGROUND;
+    color: DIALOG_ERROR_COLOR;
+  }
+  
+  #dialog-container.price {
+    background: DIALOG_PRICE_BACKGROUND;
+    color: DIALOG_PRICE_COLOR;
+  }
+  
+  #dialog-container.load-combo {
+    background: DIALOG_LOADCOMBO_BACKGROUND;
+    color: DIALOG_LOADCOMBO_COLOR;
+  }
+  
+  #dialog-container.unload-combo {
+    background: DIALOG_UNLOADCOMBO_BACKGROUND;
+    color: DIALOG_UNLOADCOMBO_COLOR;
+  }
+  
+  #dialog-container.load-combo .contrast {
+    color: DIALOG_LOADCOMBO_CONTRAST_COLOR;
+    font-size: inherit;
+  }
+  
+  #dialog-container.unload-combo .contrast {
+    color: DIALOG_UNLOADCOMBO_CONTRAST_COLOR;
+    font-size: inherit;
+  }
+  
+  #dialog-container.change {
+    background: DIALOG_CHANGE_BACKGROUND;
+    color: DIALOG_CHANGE_COLOR;
+  }
+  
+  #dialog-container.list {
+    background: DIALOG_LIST_BACKGROUND;
+    color: DIALOG_LIST_COLOR;
+  }
+  
+  #dialog-container.stock {
+    background: DIALOG_STOCK_BACKGROUND;
+    color: DIALOG_STOCK_COLOR;
+  }
+  
+  #dialog-container.verified {
+    background: DIALOG_VERIFIED_BACKGROUND;
+    color: DIALOG_VERIFIED_COLOR;
+  }
+  
+  /* ===========================================================================
+    MENU
+  =========================================================================== */
+
+  #menu,
+  .drop-items {
+    background: MENU_BACKGROUND;
+  }
+
+  #navigation-select-container {
+    background: MENU_BACKGROUND;
+  }
+  
+  /* ===========================================================================
+    TABLES
+  =========================================================================== */
+
+  th {
+    background: HEADERS_BACKGROUND;
+    color: HEADERS_COLOR;
+  }
+  
+  td {
+    border-left: 1px solid CELLS_BORDER_VERTICAL;
+    border-top: 1px solid CELLS_BORDER_HORIZONTAL;
+  }
+  
+  tr:last-child td {
+    border-bottom: 1px solid CELLS_BORDER_HORIZONTAL;
+  }
+  
+  td:last-child {
+    border-right: 1px solid CELLS_BORDER_VERTICAL;
+  }
+  
+  /* ===========================================================================
+    MAIN RECORDS
+  =========================================================================== */
+
+  .list {
+    border: 2px solid RECORD_LIST_BORDER;
+    background: RECORD_LIST_BACKGROUND;
+    color: RECORD_LIST_COLOR;
+  }
+  
+  .display {
+    border: 1px solid DISPLAY_RECORD_BORDER;
+    background: DISPLAY_RECORD_BACKGROUND;
+    color: DISPLAY_RECORD_COLOR;
+  }
+  
+  .display-category {
+    border: 1px solid DISPLAY_CATEGORY_BORDER;
+    background: DISPLAY_CATEGORY_BACKGROUND;
+    color: DISPLAY_CATEGORY_COLOR;
+  }
+  
+  .display-item {
+    border: 1px solid DISPLAY_ITEM_BORDER;
+    background: DISPLAY_ITEM_BACKGROUND;
+    color: DISPLAY_ITEM_COLOR;
+  }
+  
+  .display-document {
+    border: 1px solid DISPLAY_DOCUMENT_BORDER;
+    background: DISPLAY_DOCUMENT_BACKGROUND;
+    color: DISPLAY_DOCUMENT_COLOR;
+  }
+  
+  .display-person {
+    border: 1px solid DISPLAY_PERSON_BORDER;
+    background: DISPLAY_PERSON_BACKGROUND;
+    color: DISPLAY_PERSON_COLOR;
+  }
+  
+  /* ===========================================================================
+    EDITING FORMS
+  =========================================================================== */
+  
+  form {
+    border: 1px solid FORM_BORDER;
+    background: FORM_BACKGROUND;
+    color: FORM_COLOR;
+  }
+  
+  select,
+  select *,
+  input {
+    color: EDIT_NORMAL_COLOR;
+    background: EDIT_NORMAL_BACKGROUND;
+  }
+  
+  .single-edit.record-item input[name=price] {
+    background: EDIT_PRICE_BACKGROUND;
+    color: EDIT_PRICE_COLOR;
+  }
+
+  .input-prefix.tooltip {
+    background: TOOLTIP_MARKER_BACKGROUND;
+    color: TOOLTIP_MARKER_COLOR;
+  }
+
+  #operators-tooltip {
+    background: TOOLTIP_BACKGROUND;
+    color: TOOLTIP_COLOR;
+  }
+  
+  .dirty {
+    background: linear-gradient(to right, DIRTY_BACKGROUND_LEFT, DIRTY_BACKGROUND_LEFT 90%, DIRTY_BACKGROUND_RIGHT) !important;
+    color: DIRTY_COLOR !important;
+    box-shadow: 0 0 2px 2px DIRTY_BACKGROUND_RIGHT;
+  }
+    
+  /* ===========================================================================
+    MESSAGES
+  =========================================================================== */
+
+  .message.error {
+    border: 1px solid MESSAGE_ERROR_BORDER;
+    background: MESSAGE_ERROR_BACKGROUND;
+    color: MESSAGE_ERROR_COLOR;
+  }
+  
+  .message.normal {
+    border: 1px solid MESSAGE_NORMAL_BORDER;
+    background: MESSAGE_NORMAL_BACKGROUND;
+    color: MESSAGE_NORMAL_COLOR;
+  }
+  
+  .message.warning {
+    border: 1px solid MESSAGE_WARNING_BORDER;
+    background: MESSAGE_WARNING_BACKGROUND;
+    color: MESSAGE_WARNING_COLOR;
+  }
+  
+  .message.debug {
+    border: 1px solid MESSAGE_DEBUG_BORDER;
+    background: MESSAGE_DEBUG_BACKGROUND;
+    color: MESSAGE_DEBUG_COLOR;
+  }
+  
+  /* ===========================================================================
+    BUTTONS & ANCHORS
+  =========================================================================== */
+  
+  button,
+  a.button,
+  tr:hover a.button {
+    border: 1px solid BUTTON_BORDER;
+    color: BUTTON_COLOR;
+    background: BUTTON_BACKGROUND;
+  }
+  
+  button.delete,
+  a.button.delete,
+  tr:hover button.delete,
+  tr:hover a.button.delete {
+    border: 1px solid BUTTON_DELETE_BORDER;
+    color: BUTTON_DELETE_COLOR;
+    background: BUTTON_DELETE_BACKGROUND;
+  }
+  
+  button.save,
+  a.button.save,
+  tr:hover button.save,
+  tr:hover a.button.save {
+    border: 1px solid BUTTON_SAVE_BORDER;
+    color: BUTTON_SAVE_COLOR;
+    background: BUTTON_SAVE_BACKGROUND;
+  }
+
+  button.unload,
+  a.button.unload,
+  tr:hover button.unload,
+  tr:hover a.button.unload {
+    border: 1px solid BUTTON_UNLOAD_BORDER;
+    color: BUTTON_UNLOAD_COLOR;
+    background: BUTTON_UNLOAD_BACKGROUND;
+  }
+  
+  button.search,
+  a.button.search,
+  tr:hover button.search,
+  tr:hover a.button.search {
+    border: 1px solid BUTTON_SEARCH_BORDER;
+    color: BUTTON_SEARCH_COLOR;
+    background: BUTTON_SEARCH_BACKGROUND;
+  }
+  
+  button.clear,
+  a.button.clear,
+  tr:hover button.clear,
+  tr:hover a.button.clear {
+    border: 1px solid BUTTON_CLEAR_BORDER;
+    color: BUTTON_CLEAR_COLOR;
+    background: BUTTON_CLEAR_BACKGROUND;
+  }
+  
+  button.reset,
+  a.button.reset,
+  tr:hover button.reset,
+  tr:hover a.button.reset {
+    border: 1px solid BUTTON_RESET_BORDER;
+    color: BUTTON_RESET_COLOR;
+    background: BUTTON_RESET_BACKGROUND;
+  }
+  
+  button.clone,
+  a.button.clone,
+  tr:hover button.clone,
+  tr:hover a.button.clone {
+    border: 1px solid BUTTON_CLONE_BORDER;
+    color: BUTTON_CLONE_COLOR;
+    background: BUTTON_CLONE_BACKGROUND;
+  }
+  
+  button.activatedocument,
+  a.button.activatedocument,
+  tr:hover button.activatedocument,
+  tr:hover a.button.activatedocument {
+    border: 1px solid BUTTON_ACTIVATEDOCUMENT_BORDER;
+    color: BUTTON_ACTIVATEDOCUMENT_COLOR;
+    background: BUTTON_ACTIVATEDOCUMENT_BACKGROUND;
+  }
+  
+  .button.active,
+  button:hover,
+  button:focus,
+  a.button:hover,
+  a.button:focus, 
+  tr:hover a.button:hover,
+  tr:hover a.button:focus {
+    background: BUTTON_HOVER_BACKGROUND;
+    border: 1px solid BUTTON_HOVER_BORDER;
+    color: BUTTON_HOVER_COLOR;
+  }
+  
+  .drop.hover .button.inactive,
+  .drop:hover .button.inactive,
+  .drop.hover .button.inactive:hover,
+  .button.inactive:hover,
+  .drop.hover .button.inactive:focus,
+  .button.inactive:focus {
+    border: 1px solid BUTTON_BORDER;
+    color: DISABLED_COLOR;
+    background: DISABLED_BACKGROUND;
+    cursor: default;
+  }
+  
+  /* ===========================================================================
+    CELLS SELECTION
+  =========================================================================== */
+  
+  tr.selected {
+    background: CELLS_ALL_SELECTION_BACKGROUND;
+  }
+  
+  tr.selected td {
+    opacity: CELLS_ALL_SELECTION_OPACITY;
+  }
+  
+  #settings tr td {
+    background: SETTINGS_NORMAL_BACKGROUND;
+    color: SETTINGS_NORMAL_COLOR;
+    opacity: 1;
+  }
+
+  #settings tr.selected > td {
+    background: SETTINGS_SELECTION_BACKGROUND;
+    color: SETTINGS_SELECTION_COLOR;
+  }
+
+  /* ===========================================================================
+    NORMAL CELLS
+  =========================================================================== */
+
+  tr td {
+    background: CELLS_NORMAL_BACKGROUND;
+    color: CELLS_NORMAL_COLOR;
+  }
+  
+  /* ===========================================================================
+    NEGATIVE CELLS
+  =========================================================================== */
+
+  tr td.negative-value {
+    background: CELLS_NEGATIVE_BACKGROUND;
+    color: CELLS_NEGATIVE_COLOR;
+  }
+  
+  /* ===========================================================================
+    ZERO CELLS
+  =========================================================================== */
+
+  tr td.zero-value {
+    background: CELLS_ZERO_BACKGROUND;
+    color: CELLS_ZERO_COLOR;
+  }
+  
+  /* ===========================================================================
+    POSITIVE CELLS
+  =========================================================================== */
+
+  tr td.positive-value {
+    background: CELLS_POSITIVE_BACKGROUND;
+    color: CELLS_POSITIVE_COLOR;
+  }
+  
+  /* ===========================================================================
+    MISC
+  =========================================================================== */
+  
+  tr.trial-item td {
+    background: TRIAL_ITEM_BACKGROUND;
+    color: TRIAL_ITEM_COLOR;
+  }
+  
+  tr.paid-item td {
+    background: PAID_ITEM_BACKGROUND;
+    color: PAID_ITEM_COLOR;
+  }
+  
+  tr.due-item td {
+    background: DUE_ITEM_BACKGROUND;
+    color: DUE_ITEM_COLOR;
+  }
+  
+  tr.partial-item td {
+    background: PARTIAL_ITEM_BACKGROUND;
+    color: PARTIAL_ITEM_COLOR;
+  }
+  
+  #current-person tr:hover td,
+  .pending-person-box:hover,
+  textarea:focus,
+  input:focus,
+  select:focus {
+    background: FOCUS_BACKGROUND !important;
+    color: FOCUS_COLOR !important;
+  }
+  
+  .pager {
+    border-top: 1px solid PAGER_BORDER;
+    border-right: 1px solid PAGER_BORDER;
+    color: PAGER_COLOR;
+    background: PAGER_BACKGROUND;
+  }
+
+  .timing {
+    background: TIMING_BACKGROUND;
+    color: TIMING_COLOR;
+  }
+  
+  #working-cover {
+    color: WORKING_COVER_COLOR;
+  }
+
+  [readonly] {
+    background: READONLY_BACKGROUND !important;
+    color: READONLY_COLOR !important;
+  }
+  
+  [disabled] {
+    background: DISABLED_BACKGROUND !important;
+    color: DISABLED_COLOR !important;
+  }
+  

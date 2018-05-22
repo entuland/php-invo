@@ -1,0 +1,6 @@
+Install gettext for JS in here:
+- download https://sourceforge.net/projects/jsgettext.berlios/
+- unpack the resulting archive and find the Gettext.js file inside of the lib folder
+- copy such file into this folder in order to get a structure like this:
+/js/lib/gettext/gettext.txt
+/js/lib/gettext/Gettext.js

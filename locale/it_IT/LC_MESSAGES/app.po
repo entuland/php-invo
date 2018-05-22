@@ -1,0 +1,4145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-10 10:42+0100\n"
+"PO-Revision-Date: 2016-11-10 10:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: t;nt:1,2;ct:1c,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: nbproject\n"
+
+#: files/js/cache.js:2062 js/msg.js:9
+msgid "Click to hide"
+msgstr "Clicca per nascondere"
+
+#: files/js/cache.js:2451 js/deleter.js:29
+msgid "Confirm deletion of"
+msgstr "Conferma eliminazione"
+
+#: files/js/cache.js:2516 js/collapsible.js:26
+msgid "Open"
+msgstr "Apri"
+
+#: files/js/cache.js:2522 js/collapsible.js:32
+msgid "Close"
+msgstr "Chiudi"
+
+#: files/js/cache.js:2620 js/tables.js:67
+msgid "ascending"
+msgstr "ascendente"
+
+#: files/js/cache.js:2620 js/tables.js:67
+msgid "descending"
+msgstr "discendente"
+
+#: files/js/cache.js:2621 js/tables.js:68
+#, javascript-format
+msgid "Click to sort by this column in %s order"
+msgstr "Clicca per ordinare questa colonna in ordine %s"
+
+#: files/js/cache.js:2687 js/rapid-edit.js:30
+msgid "Click for rapid editing"
+msgstr "Clicca per la modifica rapida"
+
+#: files/js/cache.js:2698 files/js/cache.js:2752 files/js/cache.js:2758
+#: files/js/cache.js:2878 js/rapid-edit.js:41 js/rapid-edit.js:95
+#: js/rapid-edit.js:101 js/rapid-edit.js:221 app/dummy-translation-calls.php:86
+#: app/pages/inventory.class.php:53 app/pages/inventory.class.php:55
+#: app/pages/inventory.class.php:91 app/records/item.class.php:496
+msgid "yes"
+msgstr "si"
+
+#: files/js/cache.js:2701 js/rapid-edit.js:44
+#: app/dummy-translation-calls.php:87 app/pages/inventory.class.php:52
+#: app/pages/inventory.class.php:92 app/records/item.class.php:496
+#: app/records/traits/statichelpers.trait.php:96
+#: app/records/traits/statichelpers.trait.php:104
+msgid "no"
+msgstr "no"
+
+#: files/js/cache.js:2753 js/rapid-edit.js:96
+msgid "Do you want to switch verification to \"yes\"?"
+msgstr "Vuoi impostare la verifica su \"si\"?"
+
+#: files/js/cache.js:2755 js/rapid-edit.js:98
+msgid "Do you want to switch verification to \"no\"?"
+msgstr "Vuoi impostare la verifica su \"no\"?"
+
+#: files/js/cache.js:2787 files/js/cache.js:2836 files/js/cache.js:2887
+#: js/rapid-edit.js:130 js/rapid-edit.js:179 js/rapid-edit.js:230
+msgid "Insert new value for field"
+msgstr "Nuovo valore per il campo"
+
+#: files/js/cache.js:2787 js/rapid-edit.js:130
+#: app/dummy-translation-calls.php:3
+msgid "change"
+msgstr "Movimento"
+
+#: files/js/cache.js:2818 js/rapid-edit.js:161 app/records/change.class.php:142
+#: app/records/person.class.php:272 app/records/person.class.php:281
+msgid "Trial"
+msgstr "Prova"
+
+#: files/js/cache.js:2836 js/rapid-edit.js:179
+#: app/dummy-translation-calls.php:53
+msgid "stock"
+msgstr "Giacenza"
+
+#: files/js/cache.js:2840 js/rapid-edit.js:183
+msgid "Stock quantity cannot be negative"
+msgstr "La giacenza non può essere negativa"
+
+#: files/js/cache.js:2853 files/js/cache.js:3425 js/rapid-change.js:479
+#: js/rapid-edit.js:196
+msgid "Insert the change price"
+msgstr "Inserisci il prezzo del movimento"
+
+#: files/js/cache.js:2856 js/rapid-edit.js:199
+msgid "Price must be greater than zero"
+msgstr "Il prezzo deve essere maggiore di zero"
+
+#: files/js/cache.js:2887 js/rapid-edit.js:230
+#: app/dummy-translation-calls.php:7 app/records/person.class.php:250
+msgid "price"
+msgstr "Prezzo"
+
+#: files/js/cache.js:2917 js/rapid-edit.js:260
+#, javascript-format
+msgid "Do you really want to reopen request %s?"
+msgstr "Vuoi davvero riaprire la richiesta %s?"
+
+#: files/js/cache.js:2924 js/rapid-edit.js:267
+#, javascript-format
+msgid "Do you really want to close request %s?"
+msgstr "Vuoi davvero chiudere la richiesta %s?"
+
+#: files/js/cache.js:3022 js/rapid-change.js:76
+msgid "You have just searched this barcode, the item is displayed below"
+msgstr "Hai appena cercato questo codice, il prodotto è visualizzato sotto"
+
+#: files/js/cache.js:3070 js/rapid-change.js:124
+#, javascript-format
+msgid "Create new item for %s"
+msgstr "Crea nuovo prodotto per %s"
+
+#: files/js/cache.js:3111 files/js/cache.js:3175 js/rapid-change.js:165
+#: js/rapid-change.js:229
+msgid "Selling price must be positive"
+msgstr "Il prezzo di vendita deve essere positivo"
+
+#: files/js/cache.js:3114 js/rapid-change.js:168
+msgid "Purchase price must be positive"
+msgstr "Il prezzo d'acquisto deve essere positivo"
+
+#: files/js/cache.js:3117 js/rapid-change.js:171
+msgid "New load must be positive"
+msgstr "Il nuovo carico deve essere positivo"
+
+#: files/js/cache.js:3152 js/rapid-change.js:206
+msgid "Alternate load performed successfully"
+msgstr "Carico alternativo effettuato con successo"
+
+#: files/js/cache.js:3178 js/rapid-change.js:232
+msgid "New unload must be negative or zero (for trial items)"
+msgstr ""
+"Il nuovo scarico deve essere negativo oppure zero (per articoli in prova)"
+
+#: files/js/cache.js:3182 js/rapid-change.js:236 app/pages/ajax.class.php:204
+msgid "Cannot set an item in trial without assigning a person to it"
+msgstr ""
+"Impossibile segnare un articolo in prova senza assegnarlo ad una persona"
+
+#: files/js/cache.js:3206 js/rapid-change.js:260
+msgid "Regular unload performed successfully"
+msgstr "Scarico eseguito con successo"
+
+#: files/js/cache.js:3279 js/rapid-change.js:333
+msgid "rapid load"
+msgstr "carico rapido"
+
+#: files/js/cache.js:3291 js/rapid-change.js:345
+msgid "rapid unload"
+msgstr "Scarico rapido"
+
+#: files/js/cache.js:3340 files/js/cache.js:3460 js/rapid-change.js:394
+#: js/rapid-change.js:514 app/dummy-translation-calls.php:30
+msgid "item"
+msgstr "Prodotto"
+
+#: files/js/cache.js:3342 files/js/cache.js:3462 js/rapid-change.js:396
+#: js/rapid-change.js:516
+msgid "Original price"
+msgstr "Prezzo originale"
+
+#: files/js/cache.js:3366 js/rapid-change.js:420
+msgid "Latest searches"
+msgstr "Ultime ricerche"
+
+#: files/js/cache.js:3447 js/rapid-change.js:501
+msgid "Person"
+msgstr "Persona"
+
+#: files/js/cache.js:3453 js/rapid-change.js:507
+msgid "Insert zero for the new unload to register the item as trial"
+msgstr "Inserisci zero nel nuovo scarico per registrare il prodotto in prova"
+
+#: files/js/cache.js:3470 js/rapid-change.js:524
+msgid "Discount"
+msgstr "Sconto"
+
+#: files/js/cache.js:3481 js/rapid-change.js:535
+msgid "Personal discount"
+msgstr "Sconto personale"
+
+#: files/js/cache.js:3534 js/rapid-change.js:588
+msgid "New load"
+msgstr "Nuovo carico"
+
+#: files/js/cache.js:3535 js/rapid-change.js:589
+msgid "Purchase price"
+msgstr "Prezzo d'aquisto"
+
+#: files/js/cache.js:3536 js/rapid-change.js:590
+msgid "Multiplier"
+msgstr "Moltiplicatore"
+
+#: files/js/cache.js:3538 files/js/cache.js:3590 js/rapid-change.js:592
+#: js/rapid-change.js:644
+msgid "Selling price"
+msgstr "Prezzo vendita"
+
+#: files/js/cache.js:3588 js/rapid-change.js:642
+msgid "New unload"
+msgstr "Nuovo scarico"
+
+#: files/js/cache.js:3640 js/theme.js:20
+msgid "Rapid theme editing is disabled in the theme manager pages"
+msgstr ""
+"La modifica rapida del tema è disabilitata nelle pagine di amministrazione "
+"dei temi"
+
+#: files/js/cache.js:3725 js/theme.js:105
+msgid "Theme rapid edit"
+msgstr "Modifica rapida tema"
+
+#: files/js/cache.js:3763 js/theme.js:143
+msgid "done"
+msgstr "fatto"
+
+#: files/js/cache.js:3769 js/theme.js:149
+msgid "reset cache"
+msgstr "azzera cache"
+
+#: files/js/cache.js:3983 js/navigation.js:33
+msgid "history"
+msgstr "cronologia"
+
+#: files/js/cache.js:4012 js/navigation.js:62
+msgid "go back to"
+msgstr "torna a"
+
+#: files/js/cache.js:4025 js/navigation.js:75
+msgid "go forward to"
+msgstr "vai a"
+
+#: files/js/cache.js:4107 js/forms.js:47
+msgid "There are unsaved changes in this page, do you really want leave?"
+msgstr "Ci sono modifiche non salvate in questa pagina, vuoi veramente uscire?"
+
+#: files/js/cache.js:4130 js/forms.js:70
+msgid "open"
+msgstr "apri"
+
+#: files/js/cache.js:4131 js/forms.js:71
+msgid "close"
+msgstr "chiudi"
+
+#: files/js/cache.js:4286 js/forms.js:226
+msgid "This field is required"
+msgstr "Questo campo è richiesto o non valido"
+
+#: files/js/cache.js:4314 js/forms.js:254
+#: app/records/traits/validate.trait.php:64
+msgid "Duplicated value found"
+msgstr "Valore duplicato trovato"
+
+#: files/js/cache.js:4569 js/keyboard.js:220
+msgid "Ctrl+Enter to insert a new line"
+msgstr "Ctrl+Invio per andare a capo"
+
+#: files/js/cache.js:4625 js/autocomplete.js:43
+msgid "Ready for autocompletion"
+msgstr "Pronto per l'autocompletamento"
+
+#: files/js/cache.js:4725 js/list-edit.js:19
+msgid "Confirm mass edit?"
+msgstr "Confermi la modifica di massa?"
+
+#: files/js/cache.js:4727 js/list-edit.js:21
+msgid "Confirm mass delete?"
+msgstr "Confermi l'eliminazione di massa?"
+
+#: files/js/cache.js:5175 js/pager.js:42
+#, javascript-format
+msgid "Page %d"
+msgstr "Pag. %d"
+
+#: files/js/cache.js:5197 js/pager.js:64
+#, javascript-format
+msgid "%s/page"
+msgstr "%s/pag."
+
+#: files/js/cache.js:5431 js/gallery.js:178
+msgid "Missing gallery item data from image element!"
+msgstr "Dati della galleria mancanti nell'elemento immagine!"
+
+#: files/js/cache.js:5438 js/gallery.js:185
+msgid "No images to save"
+msgstr "Nessuna immagine da salvare"
+
+#: files/js/cache.js:5449 js/gallery.js:196
+msgid "All images saved"
+msgstr "Tutte le immagini sono state salvate"
+
+#: files/js/cache.js:5500 js/gallery.js:247
+msgid "Do you really want to discard this pending image?"
+msgstr "Vuoi davvero scartare questa immagine in sospeso?"
+
+#: files/js/cache.js:5502 js/gallery.js:249
+msgid "Do you really want to delete this saved image from server?"
+msgstr "Vuoi davvero eliminare questa immagine salvata sul server?"
+
+#: files/js/cache.js:5555 js/gallery.js:302
+msgid "Do you really want to discard all pending images?"
+msgstr "Vuoi davvero scartare tutte le immagini in sospeso?"
+
+#: files/js/cache.js:5564 js/gallery.js:311
+msgid "Do you really want to delete all these saved images from server?"
+msgstr "Vuoi davvero eliminare tutte queste immagini salvate sul server?"
+
+#: files/js/cache.js:5720 js/category.js:49 app/dummy-translation-calls.php:115
+msgid "category"
+msgstr "categoria"
+
+#: files/js/cache.js:5828 js/print.js:9
+msgid ""
+"Enter a single customer number or a range of numbers to be printed (e.g. "
+"\"10-20\")"
+msgstr ""
+"Inserisci un singolo numero cliente o un intervallo di numeri da stampare (e."
+"g. \"10-19\")"
+
+#: files/js/cache.js:5839 js/print.js:20
+msgid "Invalid customer number range"
+msgstr "Intervallo di numeri cliente non valido"
+
+#: files/js/cache.js:5854 js/print.js:35
+msgid "Enter the amount of labels to print"
+msgstr "Inserisci la quantità di etichette da stampare"
+
+#: files/js/cache.js:6106 js/person.js:49
+msgid "Activate this person"
+msgstr "Attiva questa persona"
+
+#: files/js/cache.js:6115 js/person.js:58
+msgid "Enter the payment amount"
+msgstr "Inserisci l'importo del pagamento o acconto"
+
+#: files/js/cache.js:6116 js/person.js:59
+msgid "Payment on purchase"
+msgstr "Pagamento all'acquisto"
+
+#: files/js/cache.js:6117 js/person.js:60
+msgid "The payment must be zero (to use existing credit) or positive"
+msgstr ""
+"Il pagamento deve essere zero (per usare un credito esistente) oppure "
+"positivo"
+
+#: files/js/cache.js:6120 js/person.js:63
+msgid "Existing credit will be used too"
+msgstr "Il credito esistente verrà usato"
+
+#: files/js/cache.js:6121 js/person.js:64
+msgid "existing credit"
+msgstr "credito esistente"
+
+#: files/js/cache.js:6129 js/person.js:72
+msgid "Enter the payment notes"
+msgstr "Note del pagamento"
+
+#: app/common.php:102
+#, php-format
+msgid "Unable to create folder %s"
+msgstr "Impossibile creare la cartella %s"
+
+#: app/common.php:175 app/common.php:190
+#, php-format
+msgid "File %s does not exist"
+msgstr "Il file %s non esiste"
+
+#: app/common.php:180
+#, php-format
+msgid "Compression of %s failed"
+msgstr "Compressione di %s fallita"
+
+#: app/common.php:183
+#, php-format
+msgid "File compressed to %s"
+msgstr "File compresso in %s"
+
+#: app/common.php:195
+#, php-format
+msgid "Decompression of %s failed"
+msgstr "Decompressione di %s fallita"
+
+#: app/common.php:198
+#, php-format
+msgid "File decompressed to %s"
+msgstr "File decompresso in %s"
+
+#: app/common.php:240
+msgid "Missing UID from form submission"
+msgstr "UID mancante nel modulo inviato"
+
+#: app/common.php:244
+msgid "This form has already been submitted"
+msgstr "Questo modulo è stato già inviato"
+
+#: app/dummy-translation-calls.php:4
+msgid "id"
+msgstr "ID"
+
+#: app/dummy-translation-calls.php:5
+msgid "id_document"
+msgstr "Documento"
+
+#: app/dummy-translation-calls.php:6
+msgid "id_item"
+msgstr "Prodotto"
+
+#: app/dummy-translation-calls.php:8 app/records/person.class.php:248
+msgid "date"
+msgstr "Data"
+
+#: app/dummy-translation-calls.php:9
+msgid "color"
+msgstr "Colore"
+
+#: app/dummy-translation-calls.php:10 app/records/factory.class.php:126
+msgid "company"
+msgstr "Azienda"
+
+#: app/dummy-translation-calls.php:11
+msgid "name"
+msgstr "Nome"
+
+#: app/dummy-translation-calls.php:12
+msgid "street"
+msgstr "Indirizzo"
+
+#: app/dummy-translation-calls.php:13
+msgid "zipcode"
+msgstr "CAP"
+
+#: app/dummy-translation-calls.php:14
+msgid "place"
+msgstr "Località"
+
+#: app/dummy-translation-calls.php:15
+msgid "province"
+msgstr "Provincia"
+
+#: app/dummy-translation-calls.php:16
+msgid "country"
+msgstr "Nazione"
+
+#: app/dummy-translation-calls.php:17
+msgid "phone"
+msgstr "Telefono"
+
+#: app/dummy-translation-calls.php:18 app/dummy-translation-calls.php:128
+msgid "fax"
+msgstr "FAX"
+
+#: app/dummy-translation-calls.php:19 app/dummy-translation-calls.php:129
+msgid "email"
+msgstr "Email"
+
+#: app/dummy-translation-calls.php:20
+msgid "notes"
+msgstr "Note"
+
+#: app/dummy-translation-calls.php:21
+msgid "doctype"
+msgstr "Tipo Doc"
+
+#: app/dummy-translation-calls.php:22
+msgid "abbr"
+msgstr "Abbr"
+
+#: app/dummy-translation-calls.php:23 app/records/person.class.php:249
+msgid "description"
+msgstr "Descrizione"
+
+#: app/dummy-translation-calls.php:24
+msgid "operand"
+msgstr "Operando"
+
+#: app/dummy-translation-calls.php:25
+msgid "document"
+msgstr "Documento"
+
+#: app/dummy-translation-calls.php:26
+msgid "id_doctype"
+msgstr "Tipo Documento"
+
+#: app/dummy-translation-calls.php:27
+msgid "number"
+msgstr "Numero"
+
+#: app/dummy-translation-calls.php:28
+msgid "id_company"
+msgstr "Azienda"
+
+#: app/dummy-translation-calls.php:29
+msgid "total"
+msgstr "Totale"
+
+#: app/dummy-translation-calls.php:31
+msgid "barcode"
+msgstr "Codice"
+
+#: app/dummy-translation-calls.php:32
+msgid "id_make"
+msgstr "Marca"
+
+#: app/dummy-translation-calls.php:33
+msgid "id_um"
+msgstr "UM"
+
+#: app/dummy-translation-calls.php:34
+msgid "id_size"
+msgstr "Misura"
+
+#: app/dummy-translation-calls.php:35
+msgid "id_color"
+msgstr "Colore"
+
+#: app/dummy-translation-calls.php:36
+msgid "reorder"
+msgstr "Riordino"
+
+#: app/dummy-translation-calls.php:37
+msgid "created"
+msgstr "Creato"
+
+#: app/dummy-translation-calls.php:38
+msgid "modified"
+msgstr "Modificato"
+
+#: app/dummy-translation-calls.php:39
+msgid "make"
+msgstr "Marca"
+
+#: app/dummy-translation-calls.php:40
+msgid "size"
+msgstr "Misura"
+
+#: app/dummy-translation-calls.php:41
+msgid "um"
+msgstr "UM"
+
+#: app/dummy-translation-calls.php:43
+msgid "changes"
+msgstr "Movimenti"
+
+#: app/dummy-translation-calls.php:44
+msgid "companys"
+msgstr "Aziende"
+
+#: app/dummy-translation-calls.php:45
+msgid "doctypes"
+msgstr "Tipi Doc"
+
+#: app/dummy-translation-calls.php:46
+msgid "documents"
+msgstr "Documenti"
+
+#: app/dummy-translation-calls.php:47
+msgid "items"
+msgstr "Prodotti"
+
+#: app/dummy-translation-calls.php:48
+msgid "colors"
+msgstr "Colori"
+
+#: app/dummy-translation-calls.php:49
+msgid "sizes"
+msgstr "Misure"
+
+#: app/dummy-translation-calls.php:50
+msgid "makes"
+msgstr "Marche"
+
+#: app/dummy-translation-calls.php:51
+msgid "ums"
+msgstr "UM"
+
+#: app/dummy-translation-calls.php:54
+msgid "rows"
+msgstr "Righe"
+
+#: app/dummy-translation-calls.php:55
+msgid "matching"
+msgstr "Corrispondenza"
+
+#: app/dummy-translation-calls.php:56
+msgid "class"
+msgstr "Elemento"
+
+#: app/dummy-translation-calls.php:57
+msgid "action"
+msgstr "Azione"
+
+#: app/dummy-translation-calls.php:58
+msgid "filename"
+msgstr "Nome file"
+
+#: app/dummy-translation-calls.php:60
+msgid "pre-create"
+msgstr "Pre-creazione"
+
+#: app/dummy-translation-calls.php:61
+msgid "pre-edit"
+msgstr "Pre-modifica"
+
+#: app/dummy-translation-calls.php:62
+msgid "pre-save"
+msgstr "Pre-salvataggio"
+
+#: app/dummy-translation-calls.php:63
+msgid "pre-delete"
+msgstr "Pre-cancellazione"
+
+#: app/dummy-translation-calls.php:65
+msgid "mass-pre-create"
+msgstr "Pre-creazione (massa)"
+
+#: app/dummy-translation-calls.php:66
+msgid "mass-pre-edit"
+msgstr "Pre-modifica (massa)"
+
+#: app/dummy-translation-calls.php:67
+msgid "mass-pre-save"
+msgstr "Pre-salvataggio (massa)"
+
+#: app/dummy-translation-calls.php:68
+msgid "mass-pre-delete"
+msgstr "Pre-eliminazione (massa)"
+
+#: app/dummy-translation-calls.php:70
+msgid "ajax-pre-create"
+msgstr "Pre-creazione (AJAX)"
+
+#: app/dummy-translation-calls.php:71
+msgid "ajax-pre-edit"
+msgstr "Pre-modifica (AJAX)"
+
+#: app/dummy-translation-calls.php:72
+msgid "ajax-pre-save"
+msgstr "Pre-salvataggio (AJAX)"
+
+#: app/dummy-translation-calls.php:73
+msgid "ajax-pre-delete"
+msgstr "Pre-eliminazione (AJAX)"
+
+#: app/dummy-translation-calls.php:75
+msgid "auto-pre-create"
+msgstr "Pre-creazione (AUTO)"
+
+#: app/dummy-translation-calls.php:76
+msgid "firstload-pre-create"
+msgstr "Pre-creazione (primo carico)"
+
+#: app/dummy-translation-calls.php:78
+msgid "stored"
+msgstr "Memorizzato"
+
+#: app/dummy-translation-calls.php:79
+msgid "displayed"
+msgstr "Mostrato"
+
+#: app/dummy-translation-calls.php:81
+msgid "key"
+msgstr "Chiave"
+
+#: app/dummy-translation-calls.php:82
+msgid "value"
+msgstr "Valore"
+
+#: app/dummy-translation-calls.php:83
+msgid "article"
+msgstr "Articolo"
+
+#: app/dummy-translation-calls.php:84
+msgid "producer_code"
+msgstr "Cod. Prod."
+
+#: app/dummy-translation-calls.php:85 app/pages/inventory.class.php:63
+#: app/pages/inventory.class.php:182
+msgid "verified"
+msgstr "Verificato"
+
+#: app/dummy-translation-calls.php:89
+msgid "computed_stock"
+msgstr "Giacenza"
+
+#: app/dummy-translation-calls.php:90
+msgid "sell_price"
+msgstr "Unitario"
+
+#: app/dummy-translation-calls.php:92 app/pages/listedit.class.php:237
+msgid "log"
+msgstr "Registro"
+
+#: app/dummy-translation-calls.php:93
+msgid "inventory"
+msgstr "Inventario"
+
+#: app/dummy-translation-calls.php:94
+msgid "duplicates"
+msgstr "Duplicati"
+
+#: app/dummy-translation-calls.php:95
+msgid "unused"
+msgstr "Inutilizzati"
+
+#: app/dummy-translation-calls.php:97
+msgid "restore"
+msgstr "ripristino"
+
+#: app/dummy-translation-calls.php:98 app/pages/listedit.class.php:238
+#: app/pages/listedit.class.php:247 app/query/queryrunner.class.php:29
+msgid "backup"
+msgstr "backup"
+
+#: app/dummy-translation-calls.php:100
+msgid "logfile"
+msgstr "file di registro"
+
+#: app/dummy-translation-calls.php:101
+msgid "dumpfile"
+msgstr "file di dump"
+
+#: app/dummy-translation-calls.php:103
+msgid "stockfixer"
+msgstr "Giacenze negative"
+
+#: app/dummy-translation-calls.php:105
+msgid "theme"
+msgstr "Tema"
+
+#: app/dummy-translation-calls.php:106
+msgid "settings"
+msgstr "Impostazioni"
+
+#: app/dummy-translation-calls.php:107
+msgid "user"
+msgstr "utente"
+
+#: app/dummy-translation-calls.php:108
+msgid "load"
+msgstr "Carico iniziale"
+
+#: app/dummy-translation-calls.php:109
+msgid "purchase"
+msgstr "Acquisto"
+
+#: app/dummy-translation-calls.php:110
+msgid "selling"
+msgstr "vendita"
+
+#: app/dummy-translation-calls.php:111
+msgid "multiplier"
+msgstr "Moltiplicatore"
+
+#: app/dummy-translation-calls.php:113
+msgid "person"
+msgstr "persona"
+
+#: app/dummy-translation-calls.php:114
+msgid "persons"
+msgstr "persone"
+
+#: app/dummy-translation-calls.php:116
+msgid "categorys"
+msgstr "categorie"
+
+#: app/dummy-translation-calls.php:117
+msgid "fiscal"
+msgstr "P. IVA - CF"
+
+#: app/dummy-translation-calls.php:118
+msgid "request"
+msgstr "richiesta"
+
+#: app/dummy-translation-calls.php:119 app/records/factory.class.php:130
+msgid "requests"
+msgstr "richieste"
+
+#: app/dummy-translation-calls.php:120
+msgid "id_person"
+msgstr "persona"
+
+#: app/dummy-translation-calls.php:121 app/records/request.class.php:74
+msgid "closed"
+msgstr "chiusa"
+
+#: app/dummy-translation-calls.php:122
+msgid "opened"
+msgstr "aperta"
+
+#: app/dummy-translation-calls.php:123
+msgid "contact"
+msgstr "contatto"
+
+#: app/dummy-translation-calls.php:124
+msgid "discount"
+msgstr "sconto"
+
+#: app/dummy-translation-calls.php:125
+msgid "provider"
+msgstr "fornitore"
+
+#: app/dummy-translation-calls.php:126
+msgid "provider_section"
+msgstr "reparto"
+
+#: app/dummy-translation-calls.php:127 app/records/request.class.php:195
+#: app/records/request.class.php:249
+msgid "print"
+msgstr "stampa"
+
+#: app/dummy-translation-calls.php:130
+#: app/records/traits/statichelpers.trait.php:95
+msgid "never"
+msgstr "mai"
+
+#: app/dummy-translation-calls.php:131
+msgid "type"
+msgstr "tipo"
+
+#: app/dummy-translation-calls.php:132
+msgid "customer_number"
+msgstr "codice cliente"
+
+#: app/dummy-translation-calls.php:133
+msgid "icons"
+msgstr "icone"
+
+#: app/dummy-translation-calls.php:134
+msgid "payment"
+msgstr "pagamento"
+
+#: app/dummy-translation-calls.php:135
+msgid "payments"
+msgstr "pagamenti"
+
+#: app/dummy-translation-calls.php:137
+msgid "id_change"
+msgstr "movimento"
+
+#: app/dummy-translation-calls.php:138
+msgid "amount"
+msgstr "importo"
+
+#: app/dummy-translation-calls.php:139 app/records/person.class.php:254
+#: app/records/person.class.php:325
+msgid "balance"
+msgstr "Saldo"
+
+#: app/dummy-translation-calls.php:140
+msgid "year_purchases"
+msgstr "Acq. annuali"
+
+#: app/dummy-translation-calls.php:142
+msgid "fixedprice"
+msgstr "Promozione"
+
+#: app/pages/ajax.class.php:29
+msgid "Invalid AJAX request"
+msgstr "Richiesta AJAX non valida"
+
+#: app/pages/ajax.class.php:37
+msgid "Unsupported AJAX action"
+msgstr "Azione AJAX non supportata"
+
+#: app/pages/ajax.class.php:55 app/records/payment.class.php:33
+#: app/records/payment.class.php:39
+msgid "Must specify an existing person name"
+msgstr "Bisogna specificare un nome di persona esistente"
+
+#: app/pages/ajax.class.php:178
+msgid "Change price must be positive"
+msgstr "Il prezzo del movimento deve essere positivo"
+
+#: app/pages/ajax.class.php:181
+msgid "Invalid change value"
+msgstr "Valore del movimento non valido"
+
+#: app/pages/ajax.class.php:184
+msgid "Missing item ID"
+msgstr "ID prodotto mancante"
+
+#: app/pages/ajax.class.php:187
+msgid "Missing document ID"
+msgstr "ID documento mancante"
+
+#: app/pages/ajax.class.php:272
+#, php-format
+msgid "Multiple items found with barcode %s!"
+msgstr "Trovati prodotti multipli con codice a barre %s!"
+
+#: app/pages/ajax.class.php:276
+#, php-format
+msgid "No item found with barcode %s"
+msgstr "Nessun prodotto trovato col codice %s"
+
+#: app/pages/ajax.class.php:286
+#, php-format
+msgid "Unexpected %s as record class in AJAX request"
+msgstr "Classe di record %s non prevista nella richiesta AJAX"
+
+#: app/pages/ajax.class.php:303 app/pages/ajax.class.php:315
+msgid "Invalid record type or ID in AJAX request"
+msgstr "Tipo di record o ID non valido nella richiesta AJAX"
+
+#: app/pages/ajax.class.php:345
+#, php-format
+msgid "Error during save of %s %d, database error"
+msgstr "Errore durante il salvataggio di %s %d, errore del database"
+
+#: app/pages/backup.class.php:19
+msgid "Database backup"
+msgstr "Backup del database"
+
+#: app/pages/backup.class.php:26
+msgid "exec function disabled"
+msgstr "Funzione \"EXEC\" disabilitata"
+
+#: app/pages/backup.class.php:47
+#, php-format
+msgid "Unlink %s succeeded"
+msgstr "Successo eliminazione %s"
+
+#: app/pages/backup.class.php:50
+#, php-format
+msgid "Unlink %s failed"
+msgstr "Fallimento eliminazione %s"
+
+#: app/pages/backup.class.php:64
+msgid "Database export"
+msgstr "Esportazione database"
+
+#: app/pages/backup.class.php:79
+#, php-format
+msgid "Invalid filename %s, not in the backup folder"
+msgstr "Nome di file %s non valido, non si trova nella cartella dei backup"
+
+#: app/pages/backup.class.php:83
+#, php-format
+msgid "Invalid filename %s, file does not exist"
+msgstr "Nome di file %s non valido, il file non esiste"
+
+#: app/pages/backup.class.php:87
+#, php-format
+msgid "Invalid filename %s, bad extension"
+msgstr "Nome di file %s non valido, estensione non valida"
+
+#: app/pages/backup.class.php:108
+#, php-format
+msgid "Filename %s is valid"
+msgstr "Il nome di file %s è valido"
+
+#: app/pages/backup.class.php:127
+msgid "Database import"
+msgstr "Importazione database"
+
+#: app/pages/backup.class.php:148
+msgid "success"
+msgstr "successo"
+
+#: app/pages/backup.class.php:151
+msgid "failure"
+msgstr "fallito"
+
+#: app/pages/backup.class.php:167
+#, php-format
+msgid "Unrecognized action %s"
+msgstr "Azione %s non riconosciuta"
+
+#: app/pages/backup.class.php:178
+msgid "Backup database"
+msgstr "Esegui backup del database"
+
+#: app/pages/backup.class.php:179 app/pages/schema.class.php:49
+msgid "Database Schema"
+msgstr "Schema del database"
+
+#: app/pages/backup.class.php:180
+msgid "Query runner"
+msgstr "Esecutore di query"
+
+#: app/pages/backup.class.php:194
+msgid "select"
+msgstr "seleziona"
+
+#: app/pages/backup.class.php:202
+msgid "Restore database from a previous dump"
+msgstr "Ripristina database da un file di dump precedente"
+
+#: app/pages/backup.class.php:203
+msgid ""
+"Before attempting to restore the current database will be backed up "
+"automatically"
+msgstr ""
+"Il database corrente verrà esportato automaticamente prima di tentare il "
+"ripristino"
+
+#: app/pages/backup.class.php:210
+msgid "Restore database"
+msgstr "Ripristina database"
+
+#: app/pages/duplicatesdeleter.class.php:19
+#: app/pages/duplicatesdeleter.class.php:150
+msgid "Delete duplicated records"
+msgstr "Elimina record duplicati"
+
+#: app/pages/duplicatesdeleter.class.php:76
+#, php-format
+msgid "Skipping value %s from table %s"
+msgstr "Sto saltando il valore %s dalla tabella %s"
+
+#: app/pages/duplicatesdeleter.class.php:95
+#, php-format
+msgid "Deletion of ID %s from table %s failed"
+msgstr "Eliminazione dell'ID %s dalla tabella %s fallita"
+
+#: app/pages/duplicatesdeleter.class.php:112
+#, php-format
+msgid "Update of %s from %s to %s failed"
+msgstr "Aggiornamento di %s da %s a %s fallito"
+
+#: app/pages/duplicatesdeleter.class.php:138
+msgid "All duplicated records were deleted"
+msgstr "Tutti i record duplicati sono stati eliminati"
+
+#: app/pages/duplicatesdeleter.class.php:156
+msgid "No duplicated records to delete"
+msgstr "Nessun record duplicato da eliminare"
+
+#: app/pages/home.class.php:28
+msgid "Unload from daily document"
+msgstr "Scarico dal documento giornaliero"
+
+#: app/pages/home.class.php:32
+msgid "Load on alternate document"
+msgstr "Carico su un documento alternativo"
+
+#: app/pages/home.class.php:34
+msgid "Go back to today's daily document"
+msgstr "Ritorna al documento giornaliero di oggi"
+
+#: app/pages/home.class.php:36
+#, php-format
+msgid "You are working on %s"
+msgstr "Stai lavorando su %s"
+
+#: app/pages/home.class.php:45
+msgid "Current document and changes"
+msgstr "Documento e movimenti correnti"
+
+#: app/pages/home.class.php:60
+#, php-format
+msgid "Unable to find barcode %s"
+msgstr "Impossibile trovare il codice %s"
+
+#: app/pages/home.class.php:61
+msgid "Redirected to the creation of a new item"
+msgstr "Reindirizzato alla creazione di un nuovo Prodotto"
+
+#: app/pages/home.class.php:65
+#, php-format
+msgid "Found multiple Items for barcode %s!"
+msgstr "Trovati prodotti multipli per il codice %s!"
+
+#: app/pages/inventory.class.php:18 app/pages/inventory.class.php:180
+msgid "Inventory"
+msgstr "Inventario"
+
+#: app/pages/inventory.class.php:57
+msgid "The year refers to its beginning (January the 1st)"
+msgstr "L'anno fa riferimento al suo inizio (primo di gennaio)"
+
+#: app/pages/inventory.class.php:58
+msgid "Verified = NO will output both verified and unverified stocks"
+msgstr "Verificato = NO mostrerà anche le giacenze non verificate"
+
+#: app/pages/inventory.class.php:62
+msgid "Year"
+msgstr "Anno"
+
+#: app/pages/inventory.class.php:64
+msgid "Mode"
+msgstr "Formato"
+
+#: app/pages/inventory.class.php:72
+msgid "Generate"
+msgstr "Genera"
+
+#: app/pages/inventory.class.php:152
+msgid "Empty inventory!"
+msgstr "Inventario vuoto!"
+
+#: app/pages/listedit.class.php:21
+msgid "Mass edit"
+msgstr "Modifica di massa"
+
+#: app/pages/listedit.class.php:26
+msgid "No rows selected for mass editing"
+msgstr "Nessuna riga selezionata per la modifica di massa"
+
+#: app/pages/listedit.class.php:31
+msgid "Invalid mass edit class"
+msgstr "Classe di massa non valida"
+
+#: app/pages/listedit.class.php:49
+msgid "Invalid mass edit submission"
+msgstr "Invio di massa non valido"
+
+#: app/pages/listedit.class.php:58
+#, php-format
+msgid "Confirm moving the above changes into %s?"
+msgstr "Confermi lo spostamento dei movimenti in %s?"
+
+#: app/pages/listedit.class.php:63
+msgid "Confirm, move them"
+msgstr "Confermo, spostali"
+
+#: app/pages/listedit.class.php:71
+msgid "Missing document ID in order to move changes"
+msgstr "ID documento mancante per lo spostamento dei movimenti"
+
+#: app/pages/listedit.class.php:76
+msgid "Chosen document is not the current document any more, please start over"
+msgstr "Il documento scelto non è più il documento corrente, riparti da zero"
+
+#: app/pages/listedit.class.php:83
+msgid "All changes moved successfully"
+msgstr "Tutti i movimenti sono stati spostati con successo"
+
+#: app/pages/listedit.class.php:84
+msgid "(if you see no error messages above)"
+msgstr "(se non vedi nessun messaggio d'errore qui sopra)"
+
+#: app/pages/listedit.class.php:98
+#, php-format
+msgid "Mass edit of %s not supported"
+msgstr "Modifica di massa di %s non supportata"
+
+#: app/pages/listedit.class.php:119
+#, php-format
+msgid "Unable to delete %s, has %d dependencies"
+msgstr "Impossibile eliminare %s, ha %d dipendenze"
+
+#: app/pages/listedit.class.php:133
+msgid "Mass delete operation cancelled, no records were deleted"
+msgstr "Eliminazione di massa annullata, nessun record è stato eliminato"
+
+#: app/pages/listedit.class.php:140
+#, php-format
+msgid "Error deleting %s!"
+msgstr "Errore durante l'eliminazione di %s!"
+
+#: app/pages/listedit.class.php:146
+#, php-format
+msgid "Unable to delete %d records out of %d. %s"
+msgstr "Impossibile eliminare %d record su %d. %s"
+
+#: app/pages/listedit.class.php:154
+#, php-format
+msgid "All %d records were successfully deleted. %s"
+msgstr "Tutti i %d record sono stati eliminati con successo. %s"
+
+#: app/pages/listedit.class.php:164
+msgid "No field selected for mass editing!"
+msgstr "Nessun campo selezionato per la modifica di massa!"
+
+#: app/pages/listedit.class.php:180
+#, php-format
+msgid "Invalid ID %s during mass edit!"
+msgstr "ID non valido %s durante la modifica di massa!"
+
+#: app/pages/listedit.class.php:217 app/records/traits/validate.trait.php:37
+#, php-format
+msgid "The following fields are required or invalid: %s"
+msgstr "I seguenti campi sono richiesti o non validi: %s"
+
+#: app/pages/listedit.class.php:221
+#, php-format
+msgid "Error during save of %d out of %d records"
+msgstr "Errore durante il salvataggio di %d record su %d"
+
+#: app/pages/listedit.class.php:228
+#, php-format
+msgid "%d record saved successfully"
+msgid_plural "%d records saved successfully"
+msgstr[0] "%d record salvato con successo"
+msgstr[1] "%d record salvati con successo"
+
+#: app/pages/listedit.class.php:240
+#, php-format
+msgid "Check pages %s and %s to recover data if necessary"
+msgstr "Usa le pagine %s e %s per recuperare i dati in caso di necessità"
+
+#: app/pages/listedit.class.php:249
+#, php-format
+msgid "Creating a backup is advised before performing mass edits/deletes: %s"
+msgstr ""
+"Si consiglia la creazione di un backup prima di effettuare eliminazioni o "
+"modifiche di massa: %s"
+
+#: app/pages/listedit.class.php:275 app/pages/listedit.class.php:283
+msgid "Mass delete"
+msgstr "Eliminazione di massa"
+
+#: app/pages/listedit.class.php:302
+msgid "Affected elements"
+msgstr "Record da modificare"
+
+#: app/pages/listedit.class.php:315
+#, php-format
+msgid "Locked, %d dep."
+msgstr "Bloccato, %d dip."
+
+#: app/pages/schema.class.php:116
+#, php-format
+msgid "Max length of field `%s`.`%s` is %d"
+msgstr "La lunghezza massima del campo `%s`.`%s` è %d"
+
+#: app/pages/schema.class.php:144
+#, php-format
+msgid "Missing property %s in the default schema of `%s`.`%s`"
+msgstr "Proprietà %s mancante nello schema predefinito di `%s`.`%s`"
+
+#: app/pages/schema.class.php:153
+#, php-format
+msgid "Missing property %s in the current schema of `%s`.`%s`"
+msgstr "Proprietà %s mancante nello schema corrente di `%s`.`%s`"
+
+#: app/pages/schema.class.php:241
+#, php-format
+msgid "Pending creation of table %s"
+msgstr "Creazione della tabella %s in attesa"
+
+#: app/pages/schema.class.php:242
+msgid "Table schema"
+msgstr "Schema della tabella"
+
+#: app/pages/schema.class.php:246
+#, php-format
+msgid "Pending creation of field %s"
+msgstr "Creazione del campo %s in attesa"
+
+#: app/pages/schema.class.php:247
+msgid "Field schema"
+msgstr "Schema del campo"
+
+#: app/pages/schema.class.php:253
+#, php-format
+msgid "Pending conversion of field %s"
+msgstr "Conversione del campo %s in attesa"
+
+#: app/pages/schema.class.php:254
+msgid "Current field schema"
+msgstr "Schema corrente del campo"
+
+#: app/pages/schema.class.php:255
+msgid "Desired field schema"
+msgstr "Schema di campo desiderato"
+
+#: app/pages/schema.class.php:260
+#, php-format
+msgid "Pending drop of field %s"
+msgstr "Eliminazione del campo %s in attesa"
+
+#: app/pages/schema.class.php:273
+#, php-format
+msgid ""
+"Data into `%s`.`%s` occupies at least %d character, you will truncate it if "
+"you reduce the size to %d"
+msgstr ""
+"I dati dentro `%s`.`%s` occupano almeno %d caratteri, troncherai i dati se "
+"riduci la dimensione a %d"
+
+#: app/pages/schema.class.php:297
+msgid "Execute pending database fixes"
+msgstr "Esegui le correzioni in sospeso sul database"
+
+#: app/pages/schema.class.php:300
+msgid "Test pending database fixes"
+msgstr "Testa le modifiche del database in attesa"
+
+#: app/pages/stockfixer.class.php:11
+msgid "Stock fixer"
+msgstr "Azzera giacenze negative"
+
+#: app/pages/stockfixer.class.php:14
+msgid "No negative stock to fix"
+msgstr "Nessuna giacenza negativa da azzerare"
+
+#: app/pages/theme.class.php:18
+msgid "Theme manager"
+msgstr "Gestore dei temi"
+
+#: app/pages/theme.class.php:32
+msgid ""
+"Press F7 keyboard button in any page to display the rapid theme editing "
+"dialog. The dialog will show theme options for the element under the mouse "
+"cursor and all of its ancestors. Changes made in that dialog will be "
+"immediately saved into the currently active theme. The F7 shortcut is "
+"disabled in these theme manager pages."
+msgstr ""
+"Premi il tasto F7 nella tastiera in qualsiasi pagina per mostrare la "
+"finestra di dialogo per la modifica rapida del tema. La finestra di dialogo "
+"mostrerà le opzioni per l'elemento sotto il puntatore del mouse e per tutti "
+"i suoi contenitori. Le modifiche fatte in quella finestra di dialogo vengono "
+"salvate immediatamente nel tema attivo. La scorciatoia F7 non è attiva in "
+"queste pagine di amministrazione dei temi."
+
+#: app/pages/theme.class.php:41
+msgid "Theme"
+msgstr "Tema"
+
+#: app/pages/theme.class.php:42
+msgid "Activation"
+msgstr "Attivazione"
+
+#: app/pages/theme.class.php:43
+msgid "Editing"
+msgstr "Modifica"
+
+#: app/pages/theme.class.php:44
+msgid "Deletion"
+msgstr "Eliminazione"
+
+#: app/pages/theme.class.php:45
+msgid "Cloning"
+msgstr "Clonazione"
+
+#: app/pages/theme.class.php:75
+msgid "edit"
+msgstr "Modifica"
+
+#: app/pages/theme.class.php:76 app/records/traits/edit.trait.php:162
+msgid "delete"
+msgstr "elimina"
+
+#: app/pages/theme.class.php:77
+msgid "activate"
+msgstr "attiva"
+
+#: app/pages/theme.class.php:78
+msgid "clone"
+msgstr "clona"
+
+#: app/pages/theme.class.php:96
+msgid "Active"
+msgstr "Attivo"
+
+#: app/pages/theme.class.php:102
+msgid "Clone name"
+msgstr "Nome del clone"
+
+#: app/pages/theme.class.php:229
+msgid "Custom theme not found, using default theme"
+msgstr "Tema personalizzato non trovato, uso il tema predefinito"
+
+#: app/pages/theme.class.php:232
+msgid "Default theme not found, using basic settings"
+msgstr "Tema predefinito non trovato, uso il tema neutro"
+
+#: app/pages/theme.class.php:267
+#, php-format
+msgid "Theme %s activated"
+msgstr "Tema %s attivato"
+
+#: app/pages/theme.class.php:298
+#, php-format
+msgid "Theme %s deleted successfully"
+msgstr "Tema %s eliminato"
+
+#: app/pages/theme.class.php:301
+#, php-format
+msgid "Unable to delete theme %s"
+msgstr "Impossibile eliminare il tema %s"
+
+#: app/pages/theme.class.php:308
+#, php-format
+msgid "Unable to create theme %s, duplicated or invalid name"
+msgstr "Impossibile creare il tema %s, nome duplicato o non valido"
+
+#: app/pages/theme.class.php:314
+#, php-format
+msgid "Theme %s cloned as %s"
+msgstr "Tema %s clonato come %s"
+
+#: app/pages/theme.class.php:317
+#, php-format
+msgid "Unable to copy %s into %s"
+msgstr "Impossibile copiare %s come %s"
+
+#: app/pages/theme.class.php:339
+#, php-format
+msgid "Theme %s saved"
+msgstr "Tema %s salvato"
+
+#: app/pages/theme.class.php:342
+#, php-format
+msgid "Theme %s save failure"
+msgstr "Fallimento durante il salvataggio del tema %s"
+
+#: app/pages/theme.class.php:398
+#, php-format
+msgid "Edit theme %s"
+msgstr "Modifica tema %s"
+
+#: app/pages/theme.class.php:399
+msgid "Current theme"
+msgstr "Tema corrente"
+
+#: app/pages/theme.class.php:413
+#, php-format
+msgid "Save theme %s"
+msgstr "Salva tema %s"
+
+#: app/pages/theme.class.php:419
+#, php-format
+msgid "Delete theme %s"
+msgstr "Elimina tema %s"
+
+#: app/pages/unuseddeleter.class.php:19 app/pages/unuseddeleter.class.php:99
+msgid "Delete unused records"
+msgstr "Elimina record inutilizzati"
+
+#: app/pages/unuseddeleter.class.php:89
+msgid "All unused records were deleted"
+msgstr "Tutti i record inutilizzati sono stati eliminati"
+
+#: app/pages/unuseddeleter.class.php:105
+msgid "No unused records to delete"
+msgstr "Nessun record inutilizzato da eliminare"
+
+#: app/query/querybuilder.class.php:24
+msgid "query builder test"
+msgstr "Test del costruttore di query"
+
+#: app/query/queryrunner.class.php:27
+msgid "Careful, with this page you can destroy the database!"
+msgstr "Attenzione, da questa pagina puoi distruggere il database!"
+
+#: app/query/queryrunner.class.php:28
+msgid "Make sure you perform a backup first"
+msgstr "Assicurati di fare un backup prima di tutto"
+
+#: app/query/queryrunner.class.php:31
+msgid "SQL runner"
+msgstr "Esecutore di query"
+
+#: app/query/queryrunner.class.php:51
+msgid "Run cancelled, no query was executed"
+msgstr "Esecuzione annullata, nessuna query eseguita"
+
+#: app/query/queryrunner.class.php:67
+msgid "SQL state"
+msgstr "Stato SQL"
+
+#: app/query/queryrunner.class.php:68
+msgid "Error code"
+msgstr "Codice di errore"
+
+#: app/query/queryrunner.class.php:69
+msgid "Error message"
+msgstr "Messaggio di errore"
+
+#: app/query/queryrunner.class.php:109
+msgid "Cannot execute multiple statements in a single query command"
+msgstr "Impossibile eseguire più comandi in una singola query"
+
+#: app/query/queryrunner.class.php:116
+msgid "This kind of query cannot be tested"
+msgstr "Questo tipo di query non può essere testata"
+
+#: app/query/queryrunner.class.php:135
+msgid "Query details"
+msgstr "Dettagli della query"
+
+#: app/query/queryrunner.class.php:227
+msgid "Query about to be run"
+msgstr "Query che sta per essere eseguita"
+
+#: app/query/queryrunner.class.php:239
+msgid "Confirm, run it"
+msgstr "Confermo, eseguila"
+
+#: app/query/queryrunner.class.php:245
+msgid "Cancel"
+msgstr "Annulla"
+
+#: app/query/queryrunner.class.php:261
+msgid "Test"
+msgstr "Test"
+
+#: app/query/queryrunner.class.php:267
+msgid "Run"
+msgstr "Esegui"
+
+#: app/records/category.class.php:101
+msgid "Upper categories"
+msgstr "Categorie superiori"
+
+#: app/records/change.class.php:44
+msgid "Missing item ID during change edit"
+msgstr "ID prodotto mancante durante la modifica del movimento"
+
+#: app/records/change.class.php:53
+#, php-format
+msgid "Invalid item ID %s during change edit"
+msgstr "ID di prodotto %s non valido durante la modifica del movimento"
+
+#: app/records/change.class.php:62 app/records/item.class.php:75
+#, php-format
+msgid "Cannot set negative stock for %s"
+msgstr "Giacenza negativa non permessa per %s"
+
+#: app/records/change.class.php:151
+msgid "Move into current document"
+msgstr "Sposta nel documento corrente"
+
+#: app/records/change.class.php:153 app/records/item.class.php:374
+#: app/records/person.class.php:230 app/records/request.class.php:219
+msgid "Selected"
+msgstr "Selezionati"
+
+#: app/records/change.class.php:154 app/records/change.class.php:158
+#: app/records/item.class.php:375 app/records/item.class.php:379
+msgid "Print labels"
+msgstr "Stampa etichette"
+
+#: app/records/change.class.php:157 app/records/item.class.php:378
+#: app/records/person.class.php:234 app/records/request.class.php:225
+#: app/records/traits/statichelpers.trait.php:39
+msgid "All"
+msgstr "Tutti"
+
+#: app/records/change.class.php:187
+#, php-format
+msgid "Payment %s converted to credit"
+msgstr "Pagamento %s convertito in credito"
+
+#: app/records/document.class.php:63
+msgid "Error during generation of daily document"
+msgstr "Errore durante la generazione del documento giornaliero"
+
+#: app/records/document.class.php:95
+msgid "Error during generation of daily inventory document"
+msgstr "Errore durante la generazione del documento di inventario giornaliero"
+
+#: app/records/document.class.php:174
+msgid "All document rows recalculated"
+msgstr "Tutte le righe dei documenti sono state ricalcolate"
+
+#: app/records/document.class.php:190 app/records/document.class.php:211
+msgid "Set as current"
+msgstr "Imposta come corrente"
+
+#: app/records/factory.class.php:20
+#, php-format
+msgid "Invalid class %s requested for printing"
+msgstr "Classe %s non valida per la stampa"
+
+#: app/records/factory.class.php:24
+#, php-format
+msgid "No valid %s IDS passed for printing"
+msgstr "Nessun ID %s valido fornito per la stampa"
+
+#: app/records/factory.class.php:28 app/records/request.class.php:220
+#: app/records/request.class.php:226 templates/print.tpl.php:12
+msgid "Print"
+msgstr "Stampa"
+
+#: app/records/factory.class.php:66
+msgid "No company found in chosen records"
+msgstr "Nessuna azienda trovata tra i record scelti"
+
+#: app/records/factory.class.php:67 app/records/factory.class.php:70
+msgid "Company section will be left blank"
+msgstr "I campi azienda rimarranno in bianco"
+
+#: app/records/factory.class.php:69
+msgid "Multiple companies found in chosen records"
+msgstr "Più aziende trovate tra i record scelti"
+
+#: app/records/factory.class.php:86
+msgid "Balance print"
+msgstr "Stampa bilancio"
+
+#: app/records/findhelper.class.php:29
+#, php-format
+msgid "Invalid table name %s passed to FindHelper"
+msgstr "Nome di tabella non valido %s fornito all'assistente per la ricerca"
+
+#: app/records/findhelper.class.php:96 app/records/findhelper.class.php:148
+#, php-format
+msgid "Invalid record type %s during query building"
+msgstr "Tipo di record %s non valido durante la costruzione della query"
+
+#: app/records/findhelper.class.php:171
+#, php-format
+msgid "Column %s not found during query building"
+msgstr "Colonna %s non trovata durante la costruzione della query"
+
+#: app/records/item.class.php:24
+msgid "All items' stocks recalculated"
+msgstr "Tutte le giacenze dei prodotti sono state ricalcolate"
+
+#: app/records/item.class.php:71
+#, php-format
+msgid "Invalid item ID %s"
+msgstr "ID non valido %s"
+
+#: app/records/item.class.php:83
+#, php-format
+msgid "Stock for %s is already set to %d"
+msgstr "Giacenza di %s già impostata a %d"
+
+#: app/records/item.class.php:104
+#, php-format
+msgid "Stock for item %s successfully updated"
+msgstr "Giacenza di %s aggiornata con successo"
+
+#: app/records/item.class.php:111
+#, php-format
+msgid "Unable to save item %s"
+msgstr "Impossibile salvare il prodotto %s"
+
+#: app/records/item.class.php:118
+#, php-format
+msgid "Unable update and verify stock of %s"
+msgstr "Impossibile aggiornare e verificare la giacenza di %s"
+
+#: app/records/item.class.php:197
+msgid "Print item labels"
+msgstr "Stampa etichette prodotti"
+
+#: app/records/item.class.php:210
+#, php-format
+msgid "Loading into %s"
+msgstr "Stai caricando su %s"
+
+#: app/records/item.class.php:217
+#, php-format
+msgid "Cloning requested item %s"
+msgstr ""
+"Stai creando un nuovo prodotto clonando %s (richiesto dalla pagina "
+"precedente)"
+
+#: app/records/item.class.php:224
+#, php-format
+msgid "Creating new item from latest one %s"
+msgstr "Stai creando un nuovo prodotto clonando %s (l'ultimo creato)"
+
+#: app/records/item.class.php:237 app/records/item.class.php:303 menu.php:11
+msgid "Load/unload"
+msgstr "Carico/scarico"
+
+#: app/records/item.class.php:241
+msgid "Clone as new"
+msgstr "Clona come nuovo"
+
+#: app/records/item.class.php:276
+msgid "unit"
+msgid_plural "units"
+msgstr[0] "unità"
+msgstr[1] "unità"
+
+#: app/records/item.class.php:274
+#, php-format
+msgid "First item load of %s %s successfully created in current document"
+msgstr "Carico iniziale di %s %s creato con successo nel documento corrente"
+
+#: app/records/item.class.php:291
+msgid "Clone"
+msgstr "Clona"
+
+#: app/records/item.class.php:315 app/records/person.class.php:27
+msgid "Request"
+msgstr "Richiesta"
+
+#: app/records/payment.class.php:69
+msgid "The payment cannot be negative"
+msgstr "Il pagamento non può essere negativo"
+
+#: app/records/payment.class.php:74
+msgid "There is no credit available"
+msgstr "Non c'è nessun credito disponibile"
+
+#: app/records/payment.class.php:88
+#, php-format
+msgid "Change %s completely paid"
+msgstr "Movimento %s completamente pagato"
+
+#: app/records/payment.class.php:93
+#, php-format
+msgid "Change %s partially paid (%s remaining)"
+msgstr "Movimento %s pagato parzialmente (%s restante)"
+
+#: app/records/payment.class.php:101
+msgid "Unable to create deposit!"
+msgstr "Impossibile creare l'acconto!"
+
+#: app/records/payment.class.php:107
+msgid "Unable to create credit!"
+msgstr "Impossibile creare il credito!"
+
+#: app/records/payment.class.php:110
+msgid "The payment you specified was greater than due pending changes"
+msgstr "Il pagamento che hai specificato è maggiore dei movimenti arretrati"
+
+#: app/records/payment.class.php:111
+#, php-format
+msgid "The remaining amount of %s has been registered as a credit"
+msgstr "L'importo restante di %s è stato registrato come credito"
+
+#: app/records/person.class.php:39 app/records/person.class.php:383
+msgid "Payment"
+msgstr "Pagamento"
+
+#: app/records/person.class.php:51 app/records/person.class.php:127
+#: app/records/person.class.php:134
+msgid "All time balance"
+msgstr "Bilancio totale"
+
+#: app/records/person.class.php:63 app/records/person.class.php:124
+#: app/records/person.class.php:135
+msgid "This year balance"
+msgstr "Bilancio di quest'anno"
+
+#: app/records/person.class.php:85
+#, php-format
+msgid "Customer number %s is already assigned to %s"
+msgstr "Il codice cliente %s è già assegnato a %s"
+
+#: app/records/person.class.php:150
+msgid "Print card for this customer"
+msgstr "Stampa tessera per questo cliente"
+
+#: app/records/person.class.php:157
+msgid "Print customer cards"
+msgstr "Stampa tessere clienti"
+
+#: app/records/person.class.php:209
+#, php-format
+msgid "Max existing customer number is %s"
+msgstr "Il numero cliente esistente più alto è %s"
+
+#: app/records/person.class.php:211
+msgid "You haven't assigned any customer number yet"
+msgstr "Non hai ancora assegnato nessun codice cliente"
+
+#: app/records/person.class.php:213
+msgid ""
+"Customer numbers are free, you can assign any (unless assigned to some other "
+"person)"
+msgstr ""
+"I codici clienti sono liberi, puoi assegnare un numero qualsiasi (se non "
+"assegnato ad altri)"
+
+#: app/records/person.class.php:231 app/records/person.class.php:235
+msgid "Print cards"
+msgstr "Stampa tessere"
+
+#: app/records/person.class.php:251
+msgid "pcs"
+msgstr "pz"
+
+#: app/records/person.class.php:252
+msgid "sub"
+msgstr "sub"
+
+#: app/records/person.class.php:253
+msgid "status"
+msgstr "status"
+
+#: app/records/person.class.php:294
+msgid "Total purchased"
+msgstr "Totale acquistato"
+
+#: app/records/person.class.php:312
+msgid "credit"
+msgstr "credito"
+
+#: app/records/person.class.php:325
+msgid "total credit"
+msgstr "credito totale"
+
+#: app/records/person.class.php:325 app/records/person.class.php:460
+msgid "due"
+msgstr "dovuto"
+
+#: app/records/person.class.php:347
+msgid "This year purchases"
+msgstr "Acquisti di quest'anno"
+
+#: app/records/person.class.php:348
+msgid "Print this year balance"
+msgstr "Stampa bilancio di quest'anno"
+
+#: app/records/person.class.php:355
+msgid "All time purchases"
+msgstr "Acquisti totali"
+
+#: app/records/person.class.php:356
+msgid "Print all time balance"
+msgstr "Stampa bilancio complessivo"
+
+#: app/records/person.class.php:452
+msgid "paid"
+msgstr "pagato"
+
+#: app/records/person.class.php:457
+msgid "partial"
+msgstr "parziale"
+
+#: app/records/person.class.php:524
+msgid "Deactivate current person"
+msgstr "Disattiva persona corrente"
+
+#: app/records/person.class.php:530
+msgid "No current person"
+msgstr "Nessuno"
+
+#: app/records/person.class.php:586
+msgid "All persons' balances recalculated"
+msgstr "Saldi di tutte le persone ricalcolati"
+
+#: app/records/request.class.php:157 menu.php:101
+msgid "Persons"
+msgstr "Persone"
+
+#: app/records/request.class.php:158
+msgid "New request"
+msgstr "Nuova richiesta"
+
+#: app/records/request.class.php:159
+msgid "Search requests"
+msgstr "Cerca richiesta"
+
+#: app/records/request.class.php:160
+msgid "Open requests"
+msgstr "Richieste aperte"
+
+#: app/records/request.class.php:161
+msgid "All requests"
+msgstr "Tutte le richieste"
+
+#: app/records/request.class.php:221 app/records/request.class.php:227
+msgid "Mail"
+msgstr "Email"
+
+#: app/records/request.class.php:222 app/records/request.class.php:228
+msgid "Fax"
+msgstr "Fax"
+
+#: app/records/request.class.php:250
+msgid "sendemail"
+msgstr "invia email"
+
+#: app/records/request.class.php:251
+msgid "emailsent"
+msgstr "email inviata"
+
+#: app/records/request.class.php:252
+msgid "sendfax"
+msgstr "invia fax"
+
+#: app/records/request.class.php:253
+msgid "faxsent"
+msgstr "fax inviato"
+
+#: app/records/traits/dao.trait.php:52
+#, php-format
+msgid "Unable to get an ID for value %s in %s"
+msgstr "Impossibile trovare un ID per il valore %s in %s"
+
+#: app/records/traits/dao.trait.php:75
+msgctxt "male"
+msgid "Created new"
+msgstr "Creato nuovo"
+
+#: app/records/traits/dao.trait.php:76
+msgctxt "female"
+msgid "Created new"
+msgstr "Creata nuova"
+
+#: app/records/traits/dao.trait.php:79
+#, php-format
+msgid "%s %s for value %s, ID %d"
+msgstr "%s %s per il valore %s, ID %d"
+
+#: app/records/traits/dao.trait.php:88
+msgid "Error on save"
+msgstr "Errore durante il salvataggio"
+
+#: app/records/traits/dao.trait.php:203
+#, php-format
+msgid "Records of type %s are currently not available, run database updates"
+msgstr ""
+"I record di tipo %s non sono al momento disponibili, esegui gli "
+"aggiornamenti del database"
+
+#: app/records/traits/delete.trait.php:13
+#, php-format
+msgid "Confirm deletion of %s"
+msgstr "Conferma l'eliminazione di %s"
+
+#: app/records/traits/delete.trait.php:31
+#, php-format
+msgid "Error during deletion of %s, database error"
+msgstr "Errore durante l'eliminazione di %s, errore del database"
+
+#: app/records/traits/delete.trait.php:34
+#, php-format
+msgid "%s deleted successfully"
+msgstr "%s eliminato con successo"
+
+#: app/records/traits/delete.trait.php:39
+#, php-format
+msgid "Unable to delete %s"
+msgstr "Impossibile eliminare %s"
+
+#: app/records/traits/delete.trait.php:41
+#, php-format
+msgid "it has %d reference"
+msgid_plural "it has %d references"
+msgstr[0] "ha %d dipendenza"
+msgstr[1] "ha %d dipendenze"
+
+#: app/records/traits/delete.trait.php:61
+msgid "Bad submission!"
+msgstr "Invio di modulo non valido!"
+
+#: app/records/traits/delete.trait.php:85
+msgid "Confirm"
+msgstr "Conferma"
+
+#: app/records/traits/edit.trait.php:24 app/records/traits/render.trait.php:221
+msgid "Edit"
+msgstr "Modifica"
+
+#: app/records/traits/edit.trait.php:27
+msgctxt "male"
+msgid "New"
+msgstr "Nuovo"
+
+#: app/records/traits/edit.trait.php:29
+msgctxt "female"
+msgid "New"
+msgstr "Nuova"
+
+#: app/records/traits/edit.trait.php:99
+#, php-format
+msgid "Error during save of %s, database error"
+msgstr "Errore durante il salvataggio di %s, errore del database"
+
+#: app/records/traits/edit.trait.php:110
+msgctxt "male"
+msgid "created"
+msgstr "creato"
+
+#: app/records/traits/edit.trait.php:111
+msgctxt "male"
+msgid "saved"
+msgstr "salvato"
+
+#: app/records/traits/edit.trait.php:113
+msgctxt "female"
+msgid "created"
+msgstr "creata"
+
+#: app/records/traits/edit.trait.php:114
+msgctxt "female"
+msgid "saved"
+msgstr "salvata"
+
+#: app/records/traits/edit.trait.php:120
+#, php-format
+msgid "%s %s successfully"
+msgstr "%s %s con successo"
+
+#: app/records/traits/edit.trait.php:189
+msgid "Save"
+msgstr "Salva"
+
+#: app/records/traits/edit.trait.php:192
+#: app/records/traits/statichelpers.trait.php:67
+msgid "Reset"
+msgstr "Reimposta"
+
+#: app/records/traits/edit.trait.php:194
+#: app/records/traits/statichelpers.trait.php:68
+msgid "Clear"
+msgstr "Azzera"
+
+#: app/records/traits/filter.trait.php:20
+#: app/records/traits/filter.trait.php:22
+#: app/records/traits/filter.trait.php:61 app/records/traits/query.trait.php:73
+#: app/records/traits/query.trait.php:113
+#: app/records/traits/render.trait.php:30
+#: app/records/traits/render.trait.php:75 menu.php:22 menu.php:38 menu.php:67
+msgid "s"
+msgstr "s"
+
+#: app/records/traits/filter.trait.php:20
+#, php-format
+msgctxt "male"
+msgid "List of filtered %s"
+msgstr "Lista di %s filtrati"
+
+#: app/records/traits/filter.trait.php:22
+#, php-format
+msgctxt "female"
+msgid "List of filtered %s"
+msgstr "Lista di %s filtrate"
+
+#: app/records/traits/filter.trait.php:29
+msgid "Too few parameters passed to filter route"
+msgstr "Parametri insufficienti passati al percorso di filtro"
+
+#: app/records/traits/filter.trait.php:33
+msgid ""
+"Odd number of params passed to filter route, the last param will be discarded"
+msgstr ""
+"Numero dispari di parametri passati al percorso di filtro, l'ultimo "
+"parametro verrà scartato"
+
+#: app/records/traits/query.trait.php:25
+#, php-format
+msgid "Field %s not found in %s"
+msgstr "Campo %s non trovato in %s"
+
+#: app/records/traits/query.trait.php:94
+msgctxt "male"
+msgid "new"
+msgstr "nuovo"
+
+#: app/records/traits/query.trait.php:96
+msgctxt "female"
+msgid "new"
+msgstr "nuova"
+
+#: app/records/traits/query.trait.php:98
+#, php-format
+msgid "Create %s %s"
+msgstr "Crea %s %s"
+
+#: app/records/traits/query.trait.php:99 app/records/traits/search.trait.php:15
+#, php-format
+msgid "Search %s"
+msgstr "Cerca %s"
+
+#: app/records/traits/query.trait.php:120
+msgid "Children records"
+msgstr "Record figli"
+
+#: app/records/traits/render.trait.php:20
+#: app/records/traits/render.trait.php:234 app/utils/logger.class.php:68
+msgid "Display"
+msgstr "Visualizza"
+
+#: app/records/traits/render.trait.php:30
+#: app/records/traits/render.trait.php:75
+msgid "List"
+msgstr "Elenco"
+
+#: app/records/traits/render.trait.php:49
+msgid "This list is empty"
+msgstr "Questa lista è vuota"
+
+#: app/records/traits/render.trait.php:248
+msgid "Delete"
+msgstr "Elimina"
+
+#: app/records/traits/search.trait.php:97
+msgid "Search form"
+msgstr "Modulo di ricerca"
+
+#: app/records/traits/search.trait.php:211
+msgid "contains"
+msgstr "contiene"
+
+#: app/records/traits/search.trait.php:214
+msgid "different from"
+msgstr "diverso da"
+
+#: app/records/traits/search.trait.php:226
+msgid "Search params:"
+msgstr "Parametri di ricerca:"
+
+#: app/records/traits/search.trait.php:233
+#: app/records/traits/search.trait.php:243
+msgid "result"
+msgid_plural "results"
+msgstr[0] "risultato"
+msgstr[1] "risultati"
+
+#: app/records/traits/search.trait.php:233
+#: app/records/traits/search.trait.php:244
+#, php-format
+msgid "Search returned %d %s"
+msgstr "La ricerca ha restituito %d %s"
+
+#: app/records/traits/statichelpers.trait.php:10
+msgid "Accepted operators:"
+msgstr "Operatori accettati:"
+
+#: app/records/traits/statichelpers.trait.php:12
+msgid "equal to \"n\""
+msgstr "uguale ad \"n\""
+
+#: app/records/traits/statichelpers.trait.php:13
+msgid "less than \"n\""
+msgstr "minore di \"n\""
+
+#: app/records/traits/statichelpers.trait.php:14
+msgid "greater than \"n\""
+msgstr "maggiore di \"n\""
+
+#: app/records/traits/statichelpers.trait.php:15
+msgid "less or equal to \"n\""
+msgstr "minore o uguale a \"n\""
+
+#: app/records/traits/statichelpers.trait.php:16
+msgid "greater or equal to \"n\""
+msgstr "maggiore o uguale a \"n\""
+
+#: app/records/traits/statichelpers.trait.php:17
+msgid "different from \"n\""
+msgstr "diverso da \"n\""
+
+#: app/records/traits/statichelpers.trait.php:18
+msgid "not a multiple of \"n\""
+msgstr "non multiplo di \"n\""
+
+#: app/records/traits/statichelpers.trait.php:19
+msgid "multiple of \"n\""
+msgstr "multiplo di \"n\""
+
+#: app/records/traits/statichelpers.trait.php:38
+msgid "Select"
+msgstr "Seleziona"
+
+#: app/records/traits/statichelpers.trait.php:40
+msgid "None"
+msgstr "Nessuno"
+
+#: app/records/traits/statichelpers.trait.php:41
+msgid "Invert"
+msgstr "Inverti"
+
+#: app/records/traits/statichelpers.trait.php:42
+msgid "Edit selected"
+msgstr "Modifica di massa"
+
+#: app/records/traits/statichelpers.trait.php:58 menu.php:43
+msgid "Search"
+msgstr "Cerca"
+
+#: app/records/traits/statichelpers.trait.php:84
+msgid "Any field"
+msgstr "Qualsiasi campo"
+
+#: app/records/traits/statichelpers.trait.php:85
+msgid "All the fields"
+msgstr "Tutti i campi"
+
+#: app/records/traits/statichelpers.trait.php:140
+#, php-format
+msgid "Invalid date %s"
+msgstr "Data non valida %s"
+
+#: app/records/traits/validate.trait.php:41
+#, php-format
+msgid "Nothing to change in %s"
+msgstr "Nessun campo da variare in %s"
+
+#: app/records/traits/validate.trait.php:75
+#, php-format
+msgid "Error during edit of %s, passed ID %d does not match"
+msgstr "Errore durante il salvataggio di %s, l'ID %d fornito non corrisponde"
+
+#: app/router.class.php:46
+#, php-format
+msgid "Path %s not found"
+msgstr "Percorso %s non trovato"
+
+#: app/router.class.php:90
+msgid "PHP info"
+msgstr "PHP info"
+
+#: app/router.class.php:193
+msgid "Bad programmer mistake in routing!"
+msgstr "Brutto errore di instradamento del programmatore!"
+
+#: app/router.class.php:201
+msgid "Bad programmer mistake in routing, part two!"
+msgstr "Brutto errore di instradamento del programmatore, parte due!"
+
+#: app/router.class.php:210
+#, php-format
+msgid "Unsupported subroute %s"
+msgstr "Sottopercorso non supportato %s"
+
+#: app/utils/barcode.class.php:158
+msgid "Empty barcode source"
+msgstr "Sorgente barcode vuota"
+
+#: app/utils/barcode.class.php:163
+msgid "Invalid barcode character"
+msgstr "Carattere barcode non valido"
+
+#: app/utils/field.class.php:60 app/utils/field.class.php:75
+#, php-format
+msgid "Field property %s not found"
+msgstr "Proprietà di campo %s non trovata"
+
+#: app/utils/field.class.php:274
+#, php-format
+msgid "Widget type %s not implemented"
+msgstr "Tipo di widget %s non implementato"
+
+#: app/utils/field.class.php:295
+msgid "-- select --"
+msgstr "-- seleziona --"
+
+#: app/utils/gallery.class.php:28
+msgid "Saved images"
+msgstr "Immagini salvate"
+
+#: app/utils/gallery.class.php:30
+msgid "Delete all saved images"
+msgstr "Elimina tutte le immagini salvate"
+
+#: app/utils/gallery.class.php:42
+msgid "Drop images here or click here to select them"
+msgstr "Trascina qui le immagini oppure clicca per selezionarle dal disco"
+
+#: app/utils/gallery.class.php:52
+msgid "Pending images"
+msgstr "Immagini in sospeso"
+
+#: app/utils/gallery.class.php:54
+msgid "Save these images"
+msgstr "Salva queste immagini"
+
+#: app/utils/gallery.class.php:55
+msgid "Delete all pending images"
+msgstr "Elimina tutte le immagini in sospeso"
+
+#: app/utils/gallery.class.php:67
+msgid "Start stream"
+msgstr "Avvia flusso video"
+
+#: app/utils/gallery.class.php:71
+msgid "Live camera stream"
+msgstr "Flusso video live"
+
+#: app/utils/gallery.class.php:73
+msgid "Stop stream"
+msgstr "Chiudi flusso video"
+
+#: app/utils/gallery.class.php:78
+msgid "Captured picture"
+msgstr "Immagine catturata"
+
+#: app/utils/gallery.class.php:80
+msgid "Capture"
+msgstr "Cattura"
+
+#: app/utils/gallery.class.php:150
+#, php-format
+msgid "Impossible! %s does not contain %s!"
+msgstr "Impossibile! %s non contiene %s!"
+
+#: app/utils/gallery.class.php:155 app/utils/gallery.class.php:162
+#: app/utils/gallery.class.php:168
+#, php-format
+msgid "Bad filename %s!"
+msgstr "Nome di file non valido %s"
+
+#: app/utils/gallery.class.php:156
+msgid "Missing ending part"
+msgstr "Parte finale mancante"
+
+#: app/utils/gallery.class.php:163
+msgid "Multiple extensions"
+msgstr "Estensioni multiple"
+
+#: app/utils/gallery.class.php:169
+msgid "Unsupported extension"
+msgstr "Estensione non supportata"
+
+#: app/utils/gallery.class.php:210
+msgid "Bad image data - format extraction failed"
+msgstr "Dati immagine non validi - estrazione formato fallita"
+
+#: app/utils/gallery.class.php:216
+msgid "Bad image data - data extraction failed"
+msgstr "Dati immagine non validi - estrazione dati fallita"
+
+#: app/utils/gallery.class.php:233
+#, php-format
+msgid "Image %d of item %s does not exist"
+msgstr "L'immagine %d del prodotto %s non esiste"
+
+#: app/utils/gallery.class.php:237
+#, php-format
+msgid "Unable to delete image %d of item %s"
+msgstr "Impossibile eliminare l'immagine %d del prodotto %s"
+
+#: app/utils/icons.class.php:9
+msgid "Icons"
+msgstr "Icone"
+
+#: app/utils/logger.class.php:15
+msgid "Log"
+msgstr "Registro"
+
+#: app/utils/logger.class.php:25
+#, php-format
+msgid "Invalid age limit for log deletion: %s"
+msgstr "Limite di età non valido per l'eliminazione dei file di registro: %s"
+
+#: app/utils/logger.class.php:39
+#, php-format
+msgid "Folder %s deleted for exceeding max age"
+msgstr "La cartella %s è stata eliminata per limite di età"
+
+#: app/utils/logger.class.php:60
+msgid "Unable to store log file, see data above"
+msgstr ""
+"Impossibile salvare il file di registro, rivedere i dati sopra riportati"
+
+#: app/utils/logger.class.php:97
+msgid "Log folder is empty"
+msgstr "La cartella di registro è vuota"
+
+#: app/utils/logger.class.php:106
+msgid "Date"
+msgstr "Data"
+
+#: app/utils/logger.class.php:107
+msgid "Type"
+msgstr "Tipo"
+
+#: app/utils/logger.class.php:108
+msgid "Action"
+msgstr "Azione"
+
+#: app/utils/logger.class.php:109
+msgid "ID"
+msgstr "ID"
+
+#: app/utils/logger.class.php:110
+msgid "Link"
+msgstr "Link"
+
+#: app/utils/logger.class.php:198
+msgid "Fields"
+msgstr "Campi"
+
+#: app/utils/pager.class.php:44
+msgid "First"
+msgstr "Prima"
+
+#: app/utils/pager.class.php:45
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: app/utils/pager.class.php:46
+msgid "Last"
+msgstr "Ultima"
+
+#: app/utils/pager.class.php:69
+msgid "prev"
+msgstr "Precedente"
+
+#: app/utils/pager.class.php:82
+msgid "next"
+msgstr "Successiva"
+
+#: app/utils/settings.class.php:33
+msgid "Settings manager"
+msgstr "Manager impostazioni"
+
+#: app/utils/settings.class.php:189
+msgid "Settings stored successfully"
+msgstr "Impostazioni salvate con successo"
+
+#: app/utils/settings.class.php:331
+msgid "Save settings"
+msgstr "Salva impostazioni"
+
+#: app/utils/settings.class.php:369
+msgid "Invalid multipliers"
+msgstr "Moltiplicatori non validi"
+
+#: app/utils/settings.class.php:370
+msgid ""
+"Each multiplier can contain only digits with an optional comma or a period."
+msgstr ""
+"Ogni moltiplicatore può contenere solo cifre con una parte decimale "
+"opzionale separata da un punto o una virgola"
+
+#: app/utils/settings.class.php:371
+msgid "Multiple multipliers must be separated by semicolons."
+msgstr "Più moltiplicatori devono essere separati da punto e virgola \";\"."
+
+#: app/utils/settings.class.php:372 app/utils/settings.class.php:388
+msgid "Examples"
+msgstr "Esempi"
+
+#: app/utils/settings.class.php:373
+msgid "one multiplier"
+msgstr "un moltiplicatore"
+
+#: app/utils/settings.class.php:374
+msgid "two multipliers"
+msgstr "due moltiplicatori"
+
+#: app/utils/settings.class.php:384
+msgid "Invalid discounts"
+msgstr "Sconti non validi"
+
+#: app/utils/settings.class.php:385
+msgid "Each discount can contain only digits."
+msgstr "Ogni sconto può contenere solo numeri."
+
+#: app/utils/settings.class.php:386
+msgid "Discounts are expressed in percent quantities (percent sign implied)."
+msgstr ""
+"Gli sconti sono espressi in quantità percentuali (simbolo di percentuale "
+"implicito)"
+
+#: app/utils/settings.class.php:387
+msgid "Multiple discounts must be separated by semicolons."
+msgstr "Gli sconti multipli devono essere separati con un punto e virgola."
+
+#: app/utils/settings.class.php:389
+msgid "one discount"
+msgstr "uno sconto"
+
+#: app/utils/settings.class.php:390
+msgid "two discounts"
+msgstr "due sconti"
+
+#: app/utils/settings.class.php:510
+msgid "show two-digits year and omit seconds when appropriate"
+msgstr "mostra anni con due cifre e nascondi i secondi dove pertinente"
+
+#: app/utils/settings.class.php:513 app/utils/settings.class.php:520
+msgid "dates"
+msgstr "date e orari"
+
+#: app/utils/settings.class.php:517
+msgid "show only dates in lists (omit hours)"
+msgstr "mostra solo le date (ometti gli orari)"
+
+#: app/utils/settings.class.php:524
+msgid "show inline display buttons"
+msgstr "mostra pulsanti di visualizzazione in linea"
+
+#: app/utils/settings.class.php:527 app/utils/settings.class.php:534
+#: app/utils/settings.class.php:541 app/utils/settings.class.php:548
+#: app/utils/settings.class.php:555 app/utils/settings.class.php:562
+#: app/utils/settings.class.php:569 app/utils/settings.class.php:576
+msgid "buttons"
+msgstr "pulsanti"
+
+#: app/utils/settings.class.php:531
+msgid "show inline delete buttons"
+msgstr "mostra pulsanti di eliminazione in linea"
+
+#: app/utils/settings.class.php:538
+msgid "show inline clone buttons"
+msgstr "mostra pulsanti di clonazione in linea"
+
+#: app/utils/settings.class.php:545
+msgid "show inline load/unload buttons"
+msgstr "mostra pulsanti di carico/scarico in linea"
+
+#: app/utils/settings.class.php:552
+msgid "show inline request buttons"
+msgstr "mostra pulsanti di richiesta in linea"
+
+#: app/utils/settings.class.php:559
+msgid "show inline payment buttons"
+msgstr "mostra pulsanti di pagamento in linea"
+
+#: app/utils/settings.class.php:566
+msgid "show inline balance buttons"
+msgstr "mostra pulsanti di bilancio in linea"
+
+#: app/utils/settings.class.php:573
+msgid "show inline activate document buttons"
+msgstr "mostra pulsanti di attivazione documento in linea"
+
+#: app/utils/settings.class.php:580
+msgid "allow loading into the daily document"
+msgstr "permetti carichi nel documento giornaliero"
+
+#: app/utils/settings.class.php:583 app/utils/settings.class.php:590
+#: app/utils/settings.class.php:599 app/utils/settings.class.php:608
+msgid "load/unload"
+msgstr "carico/scarico"
+
+#: app/utils/settings.class.php:587
+msgid "allow unloading from alternate documents"
+msgstr "permetti scarichi dai documenti alternativi"
+
+#: app/utils/settings.class.php:594
+msgid "excessive loading/unloading warning limit"
+msgstr "limite per l'avviso di carico/scarico eccessivo"
+
+#: app/utils/settings.class.php:603
+msgid "max number of searches to remember"
+msgstr "numero massimo di ricerche da ricordare"
+
+#: app/utils/settings.class.php:612
+msgid ""
+"automatic price multipliers (separate different multipliers with a semicolon)"
+msgstr ""
+"moltiplicatori per i prezzi automatici (separa più moltiplicatori con un "
+"punto e virgola)"
+
+#: app/utils/settings.class.php:621 app/utils/settings.class.php:628
+#: app/utils/settings.class.php:637
+msgid "autoprice"
+msgstr "prezzi automatici"
+
+#: app/utils/settings.class.php:625
+msgid "use first multiplier by default"
+msgstr "seleziona il primo moltiplicatore come default"
+
+#: app/utils/settings.class.php:632
+msgid "rounding for selling prices after applying a multiplier"
+msgstr ""
+"arrotondamento per il prezzo di vendita da applicare dopo il moltiplicatore"
+
+#: app/utils/settings.class.php:641
+msgid "default discount values (separate discounts with a semicolon)"
+msgstr "sconti predefiniti (separa gli sconti con un punto e virgola)"
+
+#: app/utils/settings.class.php:650 app/utils/settings.class.php:659
+msgid "discounts"
+msgstr "sconti"
+
+#: app/utils/settings.class.php:654
+msgid "rounding for selling prices after applying a discount"
+msgstr "arrotondamento dei prezzi dopo avere applicato uno sconto"
+
+#: app/utils/settings.class.php:663
+msgid "enable item gallery of images"
+msgstr "abilita galleria immagini nei prodotti"
+
+#: app/utils/settings.class.php:666 app/utils/settings.class.php:673
+msgid "images"
+msgstr "immagini"
+
+#: app/utils/settings.class.php:670
+msgid "enable request gallery of images"
+msgstr "abilita galleria di immagini nelle richieste"
+
+#: app/utils/settings.class.php:677
+msgid "default elements per page"
+msgstr "Numero predefinito di elementi per pagina (liste)"
+
+#: app/utils/settings.class.php:682
+msgid "pager"
+msgstr "Paginatore"
+
+#: app/utils/settings.class.php:686
+msgid "automatically delete log files older than this many days"
+msgstr "elimina automaticamente file di registro più vecchi di tot giorni"
+
+#: app/utils/settings.class.php:691
+msgid "cleanup"
+msgstr "pulizia"
+
+#: app/utils/settings.class.php:715 app/utils/settings.class.php:746
+#: app/utils/settings.class.php:777 app/utils/settings.class.php:808
+#: app/utils/settings.class.php:839
+#, php-format
+msgid "displays of %s"
+msgstr "Viste %s"
+
+#: app/utils/settings.class.php:716
+msgid "control fields in one liner display"
+msgstr "controlla campi vista in linea"
+
+#: app/utils/settings.class.php:727
+msgid "show in one liner"
+msgstr "mostra in vista in linea"
+
+#: app/utils/settings.class.php:747
+msgid "control fields in single display"
+msgstr "controlla campi vista singola"
+
+#: app/utils/settings.class.php:758
+msgid "show in single display"
+msgstr "mostra in vista singola"
+
+#: app/utils/settings.class.php:778
+msgid "control fields in list display"
+msgstr "controlla campi vista lista"
+
+#: app/utils/settings.class.php:789
+msgid "show in list display"
+msgstr "mostra in vista lista"
+
+#: app/utils/settings.class.php:809
+msgid "control fields in print display"
+msgstr "controlla campi vista stampa"
+
+#: app/utils/settings.class.php:820
+msgid "show in print display"
+msgstr "mostra in vista stampa"
+
+#: app/utils/settings.class.php:840
+msgid "control fields in mailfax display"
+msgstr "controlla campi nelle viste mail/fax"
+
+#: app/utils/settings.class.php:851
+msgid "show in mailfax display"
+msgstr "mostra in vista mail/fax"
+
+#: app/utils/settings.class.php:870 app/utils/settings.class.php:877
+#: app/utils/settings.class.php:884 app/utils/settings.class.php:891
+#: app/utils/settings.class.php:898 app/utils/settings.class.php:905
+msgid "debug"
+msgstr "debug"
+
+#: app/utils/settings.class.php:871
+msgid "debug POST"
+msgstr "debug dati inviati (POST)"
+
+#: app/utils/settings.class.php:878
+msgid "debug FIND"
+msgstr "debug chiamate di ricerca (FIND)"
+
+#: app/utils/settings.class.php:885
+msgid "debug QUERY"
+msgstr "debug query sul database"
+
+#: app/utils/settings.class.php:892
+msgid "debug JS"
+msgstr "debug javascript"
+
+#: app/utils/settings.class.php:899
+msgid "disable resources caching"
+msgstr "disabilita cache delle risorse"
+
+#: app/utils/settings.class.php:906
+msgid "recreate caches at every page request"
+msgstr "ricrea cache delle risorse ad ogni richiesta di pagina"
+
+#: app/utils/settings.class.php:918
+msgid "invoke print window automatically"
+msgstr "Lancia la finestra di stampa in automatico"
+
+#: app/utils/settings.class.php:921 app/utils/settings.class.php:928
+#: app/utils/settings.class.php:935 app/utils/settings.class.php:942
+#: app/utils/settings.class.php:946 app/utils/settings.class.php:953
+#: app/utils/settings.class.php:960 app/utils/settings.class.php:967
+#: app/utils/settings.class.php:974 app/utils/settings.class.php:981
+#: app/utils/settings.class.php:988 app/utils/settings.class.php:995
+msgid "prints"
+msgstr "Stampe"
+
+#: app/utils/settings.class.php:925
+msgid "print requests gallery"
+msgstr "stampa immagini delle richieste"
+
+#: app/utils/settings.class.php:932
+msgid "group requests by provider"
+msgstr "Raggruppa richieste per fornitore"
+
+#: app/utils/settings.class.php:939
+msgid "hide requests headers"
+msgstr "Nascondi intestazioni delle richieste"
+
+#: app/utils/settings.class.php:947
+msgid "home company id"
+msgstr "ID azienda di casa"
+
+#: app/utils/settings.class.php:954
+msgid "home company prefix"
+msgstr "prefisso azienda di casa"
+
+#: app/utils/settings.class.php:956
+msgid "home"
+msgstr "casa"
+
+#: app/utils/settings.class.php:961
+msgid "customer number prefix"
+msgstr "prefisso numero cliente"
+
+#: app/utils/settings.class.php:968
+msgid "custom item prefix"
+msgstr "prefisso prodotti personalizzati"
+
+#: app/utils/settings.class.php:975
+msgid "card template"
+msgstr "template tessera"
+
+#: app/utils/settings.class.php:982
+msgid "mail template"
+msgstr "template email"
+
+#: app/utils/settings.class.php:989
+msgid "fax template"
+msgstr "template fax"
+
+#: app/utils/settings.class.php:996
+msgid "label template"
+msgstr "template etichette"
+
+#: app/utils/settings.class.php:1006
+msgid "Markdown syntax with [record.field] replacements"
+msgstr "Sintassi markdown con sostituzioni [record.campo]"
+
+#: app/utils/settings.class.php:1008
+msgid "Markdown example"
+msgstr "Esempi markdown"
+
+#: app/utils/user.class.php:16
+msgid "User general failure"
+msgstr "Errore generale utente"
+
+#: app/utils/user.class.php:17
+msgid "Invalid username or password"
+msgstr "Nome utente o password non validi"
+
+#: app/utils/user.class.php:21
+msgid "Change credentials"
+msgstr "Cambia credenziali di accesso"
+
+#: app/utils/user.class.php:24
+msgid "User login"
+msgstr "Accesso utente"
+
+#: app/utils/user.class.php:27
+msgid "User registration"
+msgstr "Registrazione utente"
+
+#: app/utils/user.class.php:40
+msgid "Username too short"
+msgstr "Nome utente troppo corto"
+
+#: app/utils/user.class.php:43
+msgid "Username must include at least one lowercase letter!"
+msgstr "Il nome utente deve includere almeno una lettera minuscola!"
+
+#: app/utils/user.class.php:46
+msgid "Username must include at least one uppercase letter!"
+msgstr "Il nome utente deve includere almeno una lettera maiuscola!"
+
+#: app/utils/user.class.php:57
+msgid "Password too short"
+msgstr "La password è troppo corta"
+
+#: app/utils/user.class.php:60
+msgid "Password too long!"
+msgstr "La password è troppo lunga!"
+
+#: app/utils/user.class.php:63
+msgid "Password must include at least one number!"
+msgstr "La password deve includere almeno un numero!"
+
+#: app/utils/user.class.php:66
+msgid "Password must include at least one lowercase letter!"
+msgstr "La password deve includere almeno una lettera minuscola!"
+
+#: app/utils/user.class.php:69
+msgid "Password must include at least one uppercase letter!"
+msgstr "La password deve includere almeno una lettera maiuscola!"
+
+#: app/utils/user.class.php:72
+msgid "Password must include at least one symbol!"
+msgstr "La password deve includere almeno un simbolo!"
+
+#: app/utils/user.class.php:139
+#, php-format
+msgid "Username changed from %s to %s"
+msgstr "Nome utente cambiato da %s a %s"
+
+#: app/utils/user.class.php:148
+#, php-format
+msgid "Password for user %s changed"
+msgstr "Password cambiata per l'utente %s"
+
+#: app/utils/user.class.php:155
+msgid "Nothing to do!"
+msgstr "Nessuna modifica da apportare!"
+
+#: app/utils/user.class.php:161
+msgid "Provided passwords do not match"
+msgstr "Le password non coincidono"
+
+#: app/utils/user.class.php:175
+msgid "New user registration forbidden"
+msgstr "Registrazione di nuovi utenti proibita"
+
+#: app/utils/user.class.php:180
+#, php-format
+msgid "User %s created successfully"
+msgstr "Utente %s creato con successo"
+
+#: app/utils/user.class.php:237 app/utils/user.class.php:293
+msgid "username"
+msgstr "nome utente"
+
+#: app/utils/user.class.php:242
+msgid "password"
+msgstr "password"
+
+#: app/utils/user.class.php:251 app/utils/user.class.php:321
+msgid "Send"
+msgstr "Invia"
+
+#: app/utils/user.class.php:265
+msgid "Logout"
+msgstr "Esci"
+
+#: app/utils/user.class.php:301
+msgid "current password"
+msgstr "password attuale"
+
+#: app/utils/user.class.php:307
+msgid "new password"
+msgstr "nuova password"
+
+#: app/utils/user.class.php:312
+msgid "confirm new password"
+msgstr "conferma nuova password"
+
+#: css/dynamic/source/markers.auto.php:7 css/dynamic/source/markers.auto.php:11
+#: css/dynamic/source/markers.auto.php:15
+#: css/dynamic/source/markers.auto.php:19
+#: css/dynamic/source/markers.auto.php:23
+msgid "BODY"
+msgstr "PAGINA"
+
+#: css/dynamic/source/markers.auto.php:7 css/dynamic/source/markers.auto.php:23
+#: css/dynamic/source/markers.auto.php:31
+#: css/dynamic/source/markers.auto.php:43
+#: css/dynamic/source/markers.auto.php:51
+#: css/dynamic/source/markers.auto.php:59
+#: css/dynamic/source/markers.auto.php:67
+#: css/dynamic/source/markers.auto.php:75
+#: css/dynamic/source/markers.auto.php:83
+#: css/dynamic/source/markers.auto.php:87
+#: css/dynamic/source/markers.auto.php:91
+#: css/dynamic/source/markers.auto.php:99
+#: css/dynamic/source/markers.auto.php:107
+#: css/dynamic/source/markers.auto.php:115
+#: css/dynamic/source/markers.auto.php:123
+#: css/dynamic/source/markers.auto.php:135
+#: css/dynamic/source/markers.auto.php:155
+#: css/dynamic/source/markers.auto.php:167
+#: css/dynamic/source/markers.auto.php:179
+#: css/dynamic/source/markers.auto.php:191
+#: css/dynamic/source/markers.auto.php:203
+#: css/dynamic/source/markers.auto.php:215
+#: css/dynamic/source/markers.auto.php:227
+#: css/dynamic/source/markers.auto.php:231
+#: css/dynamic/source/markers.auto.php:243
+#: css/dynamic/source/markers.auto.php:251
+#: css/dynamic/source/markers.auto.php:259
+#: css/dynamic/source/markers.auto.php:271
+#: css/dynamic/source/markers.auto.php:283
+#: css/dynamic/source/markers.auto.php:295
+#: css/dynamic/source/markers.auto.php:307
+#: css/dynamic/source/markers.auto.php:319
+#: css/dynamic/source/markers.auto.php:327
+#: css/dynamic/source/markers.auto.php:339
+#: css/dynamic/source/markers.auto.php:351
+#: css/dynamic/source/markers.auto.php:363
+#: css/dynamic/source/markers.auto.php:375
+#: css/dynamic/source/markers.auto.php:387
+#: css/dynamic/source/markers.auto.php:399
+#: css/dynamic/source/markers.auto.php:411
+#: css/dynamic/source/markers.auto.php:423
+#: css/dynamic/source/markers.auto.php:439
+#: css/dynamic/source/markers.auto.php:443
+#: css/dynamic/source/markers.auto.php:463
+#: css/dynamic/source/markers.auto.php:471
+#: css/dynamic/source/markers.auto.php:479
+#: css/dynamic/source/markers.auto.php:487
+#: css/dynamic/source/markers.auto.php:495
+#: css/dynamic/source/markers.auto.php:503
+#: css/dynamic/source/markers.auto.php:511
+#: css/dynamic/source/markers.auto.php:519
+#: css/dynamic/source/markers.auto.php:527
+#: css/dynamic/source/markers.auto.php:535
+#: css/dynamic/source/markers.auto.php:543
+#: css/dynamic/source/markers.auto.php:551
+#: css/dynamic/source/markers.auto.php:563
+#: css/dynamic/source/markers.auto.php:567
+#: css/dynamic/source/markers.auto.php:575
+msgid "COLOR"
+msgstr "COLORE"
+
+#: css/dynamic/source/markers.auto.php:11
+#: css/dynamic/source/markers.auto.php:15
+#: css/dynamic/source/markers.auto.php:19
+#: css/dynamic/source/markers.auto.php:27
+#: css/dynamic/source/markers.auto.php:39
+#: css/dynamic/source/markers.auto.php:47
+#: css/dynamic/source/markers.auto.php:55
+#: css/dynamic/source/markers.auto.php:63
+#: css/dynamic/source/markers.auto.php:71
+#: css/dynamic/source/markers.auto.php:79
+#: css/dynamic/source/markers.auto.php:95
+#: css/dynamic/source/markers.auto.php:103
+#: css/dynamic/source/markers.auto.php:111
+#: css/dynamic/source/markers.auto.php:119
+#: css/dynamic/source/markers.auto.php:127
+#: css/dynamic/source/markers.auto.php:131
+#: css/dynamic/source/markers.auto.php:151
+#: css/dynamic/source/markers.auto.php:163
+#: css/dynamic/source/markers.auto.php:175
+#: css/dynamic/source/markers.auto.php:187
+#: css/dynamic/source/markers.auto.php:199
+#: css/dynamic/source/markers.auto.php:211
+#: css/dynamic/source/markers.auto.php:223
+#: css/dynamic/source/markers.auto.php:235
+#: css/dynamic/source/markers.auto.php:239
+#: css/dynamic/source/markers.auto.php:247
+#: css/dynamic/source/markers.auto.php:255
+#: css/dynamic/source/markers.auto.php:263
+#: css/dynamic/source/markers.auto.php:267
+#: css/dynamic/source/markers.auto.php:279
+#: css/dynamic/source/markers.auto.php:291
+#: css/dynamic/source/markers.auto.php:303
+#: css/dynamic/source/markers.auto.php:315
+#: css/dynamic/source/markers.auto.php:331
+#: css/dynamic/source/markers.auto.php:343
+#: css/dynamic/source/markers.auto.php:355
+#: css/dynamic/source/markers.auto.php:367
+#: css/dynamic/source/markers.auto.php:379
+#: css/dynamic/source/markers.auto.php:391
+#: css/dynamic/source/markers.auto.php:403
+#: css/dynamic/source/markers.auto.php:415
+#: css/dynamic/source/markers.auto.php:427
+#: css/dynamic/source/markers.auto.php:431
+#: css/dynamic/source/markers.auto.php:447
+#: css/dynamic/source/markers.auto.php:451
+#: css/dynamic/source/markers.auto.php:459
+#: css/dynamic/source/markers.auto.php:467
+#: css/dynamic/source/markers.auto.php:475
+#: css/dynamic/source/markers.auto.php:483
+#: css/dynamic/source/markers.auto.php:491
+#: css/dynamic/source/markers.auto.php:499
+#: css/dynamic/source/markers.auto.php:507
+#: css/dynamic/source/markers.auto.php:515
+#: css/dynamic/source/markers.auto.php:523
+#: css/dynamic/source/markers.auto.php:531
+#: css/dynamic/source/markers.auto.php:539
+#: css/dynamic/source/markers.auto.php:555
+#: css/dynamic/source/markers.auto.php:559
+#: css/dynamic/source/markers.auto.php:571
+msgid "BACKGROUND"
+msgstr "SFONDO"
+
+#: css/dynamic/source/markers.auto.php:15
+#: css/dynamic/source/markers.auto.php:19
+#: css/dynamic/source/markers.auto.php:23
+msgid "ALTERNATE"
+msgstr "ALTERNATIVO"
+
+#: css/dynamic/source/markers.auto.php:15
+msgid "ONE"
+msgstr "UNO"
+
+#: css/dynamic/source/markers.auto.php:19
+msgid "TWO"
+msgstr "DUE"
+
+#: css/dynamic/source/markers.auto.php:27
+#: css/dynamic/source/markers.auto.php:31
+#: css/dynamic/source/markers.auto.php:35
+msgid "MAINTITLE"
+msgstr "PAGINA TITOLO"
+
+#: css/dynamic/source/markers.auto.php:35
+#: css/dynamic/source/markers.auto.php:139
+#: css/dynamic/source/markers.auto.php:143
+#: css/dynamic/source/markers.auto.php:147
+#: css/dynamic/source/markers.auto.php:159
+#: css/dynamic/source/markers.auto.php:171
+#: css/dynamic/source/markers.auto.php:183
+#: css/dynamic/source/markers.auto.php:195
+#: css/dynamic/source/markers.auto.php:207
+#: css/dynamic/source/markers.auto.php:219
+#: css/dynamic/source/markers.auto.php:275
+#: css/dynamic/source/markers.auto.php:287
+#: css/dynamic/source/markers.auto.php:299
+#: css/dynamic/source/markers.auto.php:311
+#: css/dynamic/source/markers.auto.php:323
+#: css/dynamic/source/markers.auto.php:335
+#: css/dynamic/source/markers.auto.php:347
+#: css/dynamic/source/markers.auto.php:359
+#: css/dynamic/source/markers.auto.php:371
+#: css/dynamic/source/markers.auto.php:383
+#: css/dynamic/source/markers.auto.php:395
+#: css/dynamic/source/markers.auto.php:407
+#: css/dynamic/source/markers.auto.php:419
+#: css/dynamic/source/markers.auto.php:435
+#: css/dynamic/source/markers.auto.php:547
+msgid "BORDER"
+msgstr "BORDO"
+
+#: css/dynamic/source/markers.auto.php:39
+#: css/dynamic/source/markers.auto.php:43
+#: css/dynamic/source/markers.auto.php:47
+#: css/dynamic/source/markers.auto.php:51
+#: css/dynamic/source/markers.auto.php:55
+#: css/dynamic/source/markers.auto.php:59
+#: css/dynamic/source/markers.auto.php:63
+#: css/dynamic/source/markers.auto.php:67
+#: css/dynamic/source/markers.auto.php:71
+#: css/dynamic/source/markers.auto.php:75
+#: css/dynamic/source/markers.auto.php:79
+#: css/dynamic/source/markers.auto.php:83
+#: css/dynamic/source/markers.auto.php:87
+#: css/dynamic/source/markers.auto.php:91
+#: css/dynamic/source/markers.auto.php:95
+#: css/dynamic/source/markers.auto.php:99
+#: css/dynamic/source/markers.auto.php:103
+#: css/dynamic/source/markers.auto.php:107
+#: css/dynamic/source/markers.auto.php:111
+#: css/dynamic/source/markers.auto.php:115
+#: css/dynamic/source/markers.auto.php:119
+#: css/dynamic/source/markers.auto.php:123
+msgid "DIALOG"
+msgstr "DIALOGO"
+
+#: css/dynamic/source/markers.auto.php:39
+#: css/dynamic/source/markers.auto.php:43
+#: css/dynamic/source/markers.auto.php:231
+#: css/dynamic/source/markers.auto.php:235
+#: css/dynamic/source/markers.auto.php:287
+#: css/dynamic/source/markers.auto.php:291
+#: css/dynamic/source/markers.auto.php:295
+#: css/dynamic/source/markers.auto.php:459
+#: css/dynamic/source/markers.auto.php:463
+#: css/dynamic/source/markers.auto.php:475
+#: css/dynamic/source/markers.auto.php:479
+msgid "NORMAL"
+msgstr "NORMALE"
+
+#: css/dynamic/source/markers.auto.php:47
+#: css/dynamic/source/markers.auto.php:51
+#: css/dynamic/source/markers.auto.php:299
+#: css/dynamic/source/markers.auto.php:303
+#: css/dynamic/source/markers.auto.php:307
+msgid "WARNING"
+msgstr "AVVISO"
+
+#: css/dynamic/source/markers.auto.php:55
+#: css/dynamic/source/markers.auto.php:59
+#: css/dynamic/source/markers.auto.php:275
+#: css/dynamic/source/markers.auto.php:279
+#: css/dynamic/source/markers.auto.php:283
+msgid "ERROR"
+msgstr "ERRORE"
+
+#: css/dynamic/source/markers.auto.php:63
+#: css/dynamic/source/markers.auto.php:67
+#: css/dynamic/source/markers.auto.php:239
+#: css/dynamic/source/markers.auto.php:243
+msgid "PRICE"
+msgstr "PREZZO"
+
+#: css/dynamic/source/markers.auto.php:71
+#: css/dynamic/source/markers.auto.php:75
+#: css/dynamic/source/markers.auto.php:87
+msgid "LOADCOMBO"
+msgstr "MASCHERA CARICO"
+
+#: css/dynamic/source/markers.auto.php:79
+#: css/dynamic/source/markers.auto.php:83
+#: css/dynamic/source/markers.auto.php:91
+msgid "UNLOADCOMBO"
+msgstr "MASCHERA SCARICO"
+
+#: css/dynamic/source/markers.auto.php:87
+#: css/dynamic/source/markers.auto.php:91
+msgid "CONTRAST"
+msgstr "CONTRASTO"
+
+#: css/dynamic/source/markers.auto.php:95
+#: css/dynamic/source/markers.auto.php:99
+msgid "CHANGE"
+msgstr "MOVIMENTO"
+
+#: css/dynamic/source/markers.auto.php:103
+#: css/dynamic/source/markers.auto.php:107
+#: css/dynamic/source/markers.auto.php:147
+#: css/dynamic/source/markers.auto.php:151
+#: css/dynamic/source/markers.auto.php:155
+msgid "LIST"
+msgstr "LISTA"
+
+#: css/dynamic/source/markers.auto.php:111
+#: css/dynamic/source/markers.auto.php:115
+msgid "STOCK"
+msgstr "GIACENZA"
+
+#: css/dynamic/source/markers.auto.php:119
+#: css/dynamic/source/markers.auto.php:123
+msgid "VERIFIED"
+msgstr "VERIFICATO"
+
+#: css/dynamic/source/markers.auto.php:127
+msgid "MENU"
+msgstr "MENU"
+
+#: css/dynamic/source/markers.auto.php:131
+#: css/dynamic/source/markers.auto.php:135
+msgid "HEADERS"
+msgstr "INTESTAZIONI COLONNA"
+
+#: css/dynamic/source/markers.auto.php:139
+#: css/dynamic/source/markers.auto.php:143
+#: css/dynamic/source/markers.auto.php:451
+#: css/dynamic/source/markers.auto.php:455
+#: css/dynamic/source/markers.auto.php:475
+#: css/dynamic/source/markers.auto.php:479
+#: css/dynamic/source/markers.auto.php:483
+#: css/dynamic/source/markers.auto.php:487
+#: css/dynamic/source/markers.auto.php:491
+#: css/dynamic/source/markers.auto.php:495
+#: css/dynamic/source/markers.auto.php:499
+#: css/dynamic/source/markers.auto.php:503
+msgid "CELLS"
+msgstr "CELLE"
+
+#: css/dynamic/source/markers.auto.php:139
+msgid "VERTICAL"
+msgstr "VERTICALE"
+
+#: css/dynamic/source/markers.auto.php:143
+msgid "HORIZONTAL"
+msgstr "ORIZZONTALE"
+
+#: css/dynamic/source/markers.auto.php:147
+#: css/dynamic/source/markers.auto.php:151
+#: css/dynamic/source/markers.auto.php:155
+#: css/dynamic/source/markers.auto.php:159
+#: css/dynamic/source/markers.auto.php:163
+#: css/dynamic/source/markers.auto.php:167
+msgid "RECORD"
+msgstr "RECORD"
+
+#: css/dynamic/source/markers.auto.php:159
+#: css/dynamic/source/markers.auto.php:163
+#: css/dynamic/source/markers.auto.php:167
+#: css/dynamic/source/markers.auto.php:171
+#: css/dynamic/source/markers.auto.php:175
+#: css/dynamic/source/markers.auto.php:179
+#: css/dynamic/source/markers.auto.php:183
+#: css/dynamic/source/markers.auto.php:187
+#: css/dynamic/source/markers.auto.php:191
+#: css/dynamic/source/markers.auto.php:195
+#: css/dynamic/source/markers.auto.php:199
+#: css/dynamic/source/markers.auto.php:203
+#: css/dynamic/source/markers.auto.php:207
+#: css/dynamic/source/markers.auto.php:211
+#: css/dynamic/source/markers.auto.php:215
+msgid "DISPLAY"
+msgstr "VISUALIZZAZIONE"
+
+#: css/dynamic/source/markers.auto.php:171
+#: css/dynamic/source/markers.auto.php:175
+#: css/dynamic/source/markers.auto.php:179
+msgid "CATEGORY"
+msgstr "CATEGORIA"
+
+#: css/dynamic/source/markers.auto.php:183
+#: css/dynamic/source/markers.auto.php:187
+#: css/dynamic/source/markers.auto.php:191
+#: css/dynamic/source/markers.auto.php:507
+#: css/dynamic/source/markers.auto.php:511
+#: css/dynamic/source/markers.auto.php:515
+#: css/dynamic/source/markers.auto.php:519
+#: css/dynamic/source/markers.auto.php:523
+#: css/dynamic/source/markers.auto.php:527
+#: css/dynamic/source/markers.auto.php:531
+#: css/dynamic/source/markers.auto.php:535
+msgid "ITEM"
+msgstr "PRODOTTO"
+
+#: css/dynamic/source/markers.auto.php:195
+#: css/dynamic/source/markers.auto.php:199
+#: css/dynamic/source/markers.auto.php:203
+msgid "DOCUMENT"
+msgstr "DOCUMENTO"
+
+#: css/dynamic/source/markers.auto.php:207
+#: css/dynamic/source/markers.auto.php:211
+#: css/dynamic/source/markers.auto.php:215
+msgid "PERSON"
+msgstr "PERSONA"
+
+#: css/dynamic/source/markers.auto.php:219
+#: css/dynamic/source/markers.auto.php:223
+#: css/dynamic/source/markers.auto.php:227
+msgid "FORM"
+msgstr "MODULO"
+
+#: css/dynamic/source/markers.auto.php:231
+#: css/dynamic/source/markers.auto.php:235
+#: css/dynamic/source/markers.auto.php:239
+#: css/dynamic/source/markers.auto.php:243
+msgid "EDIT"
+msgstr "MODIFICA"
+
+#: css/dynamic/source/markers.auto.php:247
+#: css/dynamic/source/markers.auto.php:251
+#: css/dynamic/source/markers.auto.php:255
+#: css/dynamic/source/markers.auto.php:259
+msgid "TOOLTIP"
+msgstr "SUGGERIMENTO"
+
+#: css/dynamic/source/markers.auto.php:247
+#: css/dynamic/source/markers.auto.php:251
+msgid "MARKER"
+msgstr "SEGNAPOSTO"
+
+#: css/dynamic/source/markers.auto.php:263
+#: css/dynamic/source/markers.auto.php:267
+#: css/dynamic/source/markers.auto.php:271
+msgid "DIRTY"
+msgstr "CAMPO ALTERATO"
+
+#: css/dynamic/source/markers.auto.php:263
+msgid "LEFT"
+msgstr "SINISTRA"
+
+#: css/dynamic/source/markers.auto.php:267
+msgid "RIGHT"
+msgstr "DESTRA"
+
+#: css/dynamic/source/markers.auto.php:275
+#: css/dynamic/source/markers.auto.php:279
+#: css/dynamic/source/markers.auto.php:283
+#: css/dynamic/source/markers.auto.php:287
+#: css/dynamic/source/markers.auto.php:291
+#: css/dynamic/source/markers.auto.php:295
+#: css/dynamic/source/markers.auto.php:299
+#: css/dynamic/source/markers.auto.php:303
+#: css/dynamic/source/markers.auto.php:307
+#: css/dynamic/source/markers.auto.php:311
+#: css/dynamic/source/markers.auto.php:315
+#: css/dynamic/source/markers.auto.php:319
+msgid "MESSAGE"
+msgstr "MESSAGGIO"
+
+#: css/dynamic/source/markers.auto.php:311
+#: css/dynamic/source/markers.auto.php:315
+#: css/dynamic/source/markers.auto.php:319
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#: css/dynamic/source/markers.auto.php:323
+#: css/dynamic/source/markers.auto.php:327
+#: css/dynamic/source/markers.auto.php:331
+#: css/dynamic/source/markers.auto.php:335
+#: css/dynamic/source/markers.auto.php:339
+#: css/dynamic/source/markers.auto.php:343
+#: css/dynamic/source/markers.auto.php:347
+#: css/dynamic/source/markers.auto.php:351
+#: css/dynamic/source/markers.auto.php:355
+#: css/dynamic/source/markers.auto.php:359
+#: css/dynamic/source/markers.auto.php:363
+#: css/dynamic/source/markers.auto.php:367
+#: css/dynamic/source/markers.auto.php:371
+#: css/dynamic/source/markers.auto.php:375
+#: css/dynamic/source/markers.auto.php:379
+#: css/dynamic/source/markers.auto.php:383
+#: css/dynamic/source/markers.auto.php:387
+#: css/dynamic/source/markers.auto.php:391
+#: css/dynamic/source/markers.auto.php:395
+#: css/dynamic/source/markers.auto.php:399
+#: css/dynamic/source/markers.auto.php:403
+#: css/dynamic/source/markers.auto.php:407
+#: css/dynamic/source/markers.auto.php:411
+#: css/dynamic/source/markers.auto.php:415
+#: css/dynamic/source/markers.auto.php:419
+#: css/dynamic/source/markers.auto.php:423
+#: css/dynamic/source/markers.auto.php:427
+#: css/dynamic/source/markers.auto.php:431
+#: css/dynamic/source/markers.auto.php:435
+#: css/dynamic/source/markers.auto.php:439
+msgid "BUTTON"
+msgstr "BOTTONE"
+
+#: css/dynamic/source/markers.auto.php:335
+#: css/dynamic/source/markers.auto.php:339
+#: css/dynamic/source/markers.auto.php:343
+msgid "DELETE"
+msgstr "ELIMINA"
+
+#: css/dynamic/source/markers.auto.php:347
+#: css/dynamic/source/markers.auto.php:351
+#: css/dynamic/source/markers.auto.php:355
+msgid "SAVE"
+msgstr "SALVA"
+
+#: css/dynamic/source/markers.auto.php:359
+#: css/dynamic/source/markers.auto.php:363
+#: css/dynamic/source/markers.auto.php:367
+msgid "UNLOAD"
+msgstr "CARICOSCARICO"
+
+#: css/dynamic/source/markers.auto.php:371
+#: css/dynamic/source/markers.auto.php:375
+#: css/dynamic/source/markers.auto.php:379
+msgid "SEARCH"
+msgstr "CERCA"
+
+#: css/dynamic/source/markers.auto.php:383
+#: css/dynamic/source/markers.auto.php:387
+#: css/dynamic/source/markers.auto.php:391
+msgid "CLEAR"
+msgstr "AZZERA"
+
+#: css/dynamic/source/markers.auto.php:395
+#: css/dynamic/source/markers.auto.php:399
+#: css/dynamic/source/markers.auto.php:403
+msgid "RESET"
+msgstr "REIMPOSTA"
+
+#: css/dynamic/source/markers.auto.php:407
+#: css/dynamic/source/markers.auto.php:411
+#: css/dynamic/source/markers.auto.php:415
+msgid "CLONE"
+msgstr "CLONA"
+
+#: css/dynamic/source/markers.auto.php:419
+#: css/dynamic/source/markers.auto.php:423
+#: css/dynamic/source/markers.auto.php:427
+msgid "ACTIVATEDOCUMENT"
+msgstr "ATTIVADOCUMENTO"
+
+#: css/dynamic/source/markers.auto.php:431
+#: css/dynamic/source/markers.auto.php:435
+#: css/dynamic/source/markers.auto.php:439
+msgid "HOVER"
+msgstr "MOUSESOPRA"
+
+#: css/dynamic/source/markers.auto.php:443
+#: css/dynamic/source/markers.auto.php:447
+msgid "DISABLED"
+msgstr "DISABILITATO"
+
+#: css/dynamic/source/markers.auto.php:451
+#: css/dynamic/source/markers.auto.php:455
+msgid "ALL"
+msgstr "TUTTO"
+
+#: css/dynamic/source/markers.auto.php:451
+#: css/dynamic/source/markers.auto.php:455
+#: css/dynamic/source/markers.auto.php:467
+#: css/dynamic/source/markers.auto.php:471
+msgid "SELECTION"
+msgstr "SELEZIONE"
+
+#: css/dynamic/source/markers.auto.php:455
+msgid "OPACITY"
+msgstr "OPACITÀ"
+
+#: css/dynamic/source/markers.auto.php:459
+#: css/dynamic/source/markers.auto.php:463
+#: css/dynamic/source/markers.auto.php:467
+#: css/dynamic/source/markers.auto.php:471
+msgid "SETTINGS"
+msgstr "IMPOSTAZIONI"
+
+#: css/dynamic/source/markers.auto.php:483
+#: css/dynamic/source/markers.auto.php:487
+msgid "NEGATIVE"
+msgstr "NEGATIVO"
+
+#: css/dynamic/source/markers.auto.php:491
+#: css/dynamic/source/markers.auto.php:495
+msgid "ZERO"
+msgstr "ZERO"
+
+#: css/dynamic/source/markers.auto.php:499
+#: css/dynamic/source/markers.auto.php:503
+msgid "POSITIVE"
+msgstr "POSITIVO"
+
+#: css/dynamic/source/markers.auto.php:507
+#: css/dynamic/source/markers.auto.php:511
+msgid "TRIAL"
+msgstr "PROVA"
+
+#: css/dynamic/source/markers.auto.php:515
+#: css/dynamic/source/markers.auto.php:519
+msgid "PAID"
+msgstr "PAGATO"
+
+#: css/dynamic/source/markers.auto.php:523
+#: css/dynamic/source/markers.auto.php:527
+msgid "DUE"
+msgstr "DOVUTO"
+
+#: css/dynamic/source/markers.auto.php:531
+#: css/dynamic/source/markers.auto.php:535
+msgid "PARTIAL"
+msgstr "PARZIALE"
+
+#: css/dynamic/source/markers.auto.php:539
+#: css/dynamic/source/markers.auto.php:543
+msgid "FOCUS"
+msgstr "FUOCO"
+
+#: css/dynamic/source/markers.auto.php:547
+#: css/dynamic/source/markers.auto.php:551
+#: css/dynamic/source/markers.auto.php:555
+msgid "PAGER"
+msgstr "PAGINATORE"
+
+#: css/dynamic/source/markers.auto.php:559
+#: css/dynamic/source/markers.auto.php:563
+msgid "TIMING"
+msgstr "CRONOMETRO"
+
+#: css/dynamic/source/markers.auto.php:567
+msgid "WORKING"
+msgstr "LAVORANDO"
+
+#: css/dynamic/source/markers.auto.php:567
+msgid "COVER"
+msgstr "COPERTINA"
+
+#: css/dynamic/source/markers.auto.php:571
+#: css/dynamic/source/markers.auto.php:575
+msgid "READONLY"
+msgstr "SOLALETTURA"
+
+#: index.php:37
+msgid "No $_POST data to dump"
+msgstr "Nessun dato da mostrare nella variable $_POST"
+
+#: index.php:44
+msgid "error"
+msgstr "Errore"
+
+#: javascript.php:50
+msgid "Resources cache is disabled, enable it from the settings page"
+msgstr ""
+"La cache delle risorse è disabilitata, riabilitala dalla pagina delle "
+"impostazioni"
+
+#: javascript.php:64
+msgid ""
+"Resources cache recreated at every page request, disable it from the "
+"settings page"
+msgstr ""
+"La cache delle risorse viene ricreata ad ogni richiesta di pagina, "
+"disabilitala dalla pagina delle impostazioni"
+
+#: menu.php:58
+msgid "New"
+msgstr "Nuovo"
+
+#: menu.php:72
+msgid "Tables"
+msgstr "Tabelle"
+
+#: menu.php:97
+msgid "Other"
+msgstr "Altro"
+
+#: menu.php:102
+msgid "Payments"
+msgstr "Pagamenti"
+
+#: menu.php:103
+msgid "Requests"
+msgstr "Richieste"
+
+#: templates/main.tpl.php:31
+msgid "Doubleclick to remove this cover if needed"
+msgstr "Doppio click per rimuovere questa copertina se necessario"
+
+#: templates/main.tpl.php:34
+msgid "please wait..."
+msgstr "attendere..."
+
+#: templates/main.tpl.php:42
+msgid "ok"
+msgstr "OK"
+
+#: templates/main.tpl.php:43
+msgid "cancel"
+msgstr "annulla"
+
+#: templates/main.tpl.php:75
+#, php-format
+msgid "Page generated in %s seconds @ %s"
+msgstr "Pagina generata in %s secondi @ %s"
+
+#: templates/print.tpl.php:13
+msgid "Copy all"
+msgstr "Copia tutto"
+
+#: templates/print.tpl.php:28
+msgid "copied to clipboard"
+msgstr "Copiato negli appunti"
+
+#~ msgid "click to select/deselect the row"
+#~ msgstr ""
+#~ "clicca per selezionare/deselezionare la riga (modificatori control e "
+#~ "maiusc disponibili)"
+
+#~ msgid "The payment must be positive"
+#~ msgstr "Il pagamento deve essere positivo"
+
+#~ msgid ""
+#~ "The remaining amount of %s cannot be registered and should be returned to "
+#~ "the person"
+#~ msgstr ""
+#~ "La somma rimanente di %s non può essere registrata e dovrebbe essere "
+#~ "restituita alla persona"
+
+#~ msgid "Unable to create progressive payment!"
+#~ msgstr "Impossibile creare il pagamento progressivo!"
+
+#~ msgid "Unable to connect to database"
+#~ msgstr "Impossibile connettersi al database"
+
+#~ msgid "Unable to prepare statement"
+#~ msgstr "Impossibile preparare la dichiarazione di query"
+
+#~ msgid "Unable to execute statement"
+#~ msgstr "Impossibile eseguire la dichiarazione di query"
+
+#~ msgid "Database error details"
+#~ msgstr "Dettagli dell'errore database"
+
+#~ msgid "Malformed query"
+#~ msgstr "Query non valida"
+
+#~ msgid "New unload must be negative"
+#~ msgstr "Il nuovo scarico deve essere negativo"
+
+#~ msgid "Change cannot be zero"
+#~ msgstr "Il movimento non può essere nullo"
+
+#~ msgid "Theme Manager"
+#~ msgstr "Manager dei temi"
+
+#~ msgid "custom product prefix"
+#~ msgstr "prefisso numero prodotto"
+
+#~ msgctxt "customer number"
+#~ msgid "cn-"
+#~ msgstr "cc-"
+
+#~ msgid "mailfax"
+#~ msgstr "mail/fax"
+
+#~ msgid "Print selected"
+#~ msgstr "Stampa selezionati"
+
+#~ msgid "Print all"
+#~ msgstr "Stampa tutto"
+
+#~ msgid "Mail selected"
+#~ msgstr "Email selezionati"
+
+#~ msgid "Mail all"
+#~ msgstr "Email tutti"
+
+#~ msgid "Fax selected"
+#~ msgstr "Fax selezionati"
+
+#~ msgid "Fax all"
+#~ msgstr "Fax tutti"
+
+#~ msgid "house"
+#~ msgstr "casa"
+
+#~ msgid "copy all"
+#~ msgstr "Copia tutto"
+
+#~ msgid "Column %s not found"
+#~ msgstr "Colonna %s non trovata"
+
+#~ msgid "Select all"
+#~ msgstr "Seleziona tutti"
+
+#~ msgid "Select none"
+#~ msgstr "Seleziona nessuno"
+
+#~ msgid "Select invert"
+#~ msgstr "Inverti selezione"
+
+#~ msgid "control display of %s"
+#~ msgstr "controlla viste %s"
+
+#~ msgid "and"
+#~ msgstr "e"
+
+#~ msgid "or"
+#~ msgstr "oppure"
+
+#~ msgid "No provider"
+#~ msgstr "Nessun fornitore specificato"
+
+#~ msgid "Search returned %d results"
+#~ msgstr "La ricerca ha prodotto %d risultati"
+
+#~ msgid "All open requests"
+#~ msgstr "Richieste aperte"
+
+#~ msgid "List of open requests"
+#~ msgstr "Lista delle richieste aperte"
+
+#~ msgid "enable simple display"
+#~ msgstr "abilita vista singola semplice"
+
+#~ msgid "MASS"
+#~ msgstr "MASSA"
+
+#~ msgid "add empty request field (for adding notes by hand)"
+#~ msgstr ""
+#~ "aggiungi un campo vuoto nelle richieste (per aggiungere note a mano)"
+
+#~ msgid "No category"
+#~ msgstr "Senza categoria"
+
+#~ msgid "group requests by category"
+#~ msgstr "Raggruppa le richieste per categoria"
+
+#~ msgid "Use only one liner display for single display of %s"
+#~ msgstr "Utilizza solo la vista in linea nella vista singola di %s"
+
+#~ msgid "simple display"
+#~ msgstr "vista semplice"
+
+#~ msgid "Activate one liner display skips on %s"
+#~ msgstr "Attiva esclusioni vista in linea per %s"
+
+#~ msgid "control one liner display"
+#~ msgstr "Gestione vista in linea"
+
+#~ msgid "Activate single display skips on %s"
+#~ msgstr "Attiva esclusioni vista singola per %s"
+
+#~ msgid "control single display"
+#~ msgstr "Gestione vista singola"
+
+#~ msgid "Activate list display skips on %s"
+#~ msgstr "Attiva esclusioni vista lista per %s"
+
+#~ msgid "control list display"
+#~ msgstr "Gestione vista lista"
+
+#~ msgid "Activate print display skips on %s"
+#~ msgstr "Attiva esclusioni vista stampa per %s"
+
+#~ msgid "control print display"
+#~ msgstr "Gestione vista stampa"
+
+#~ msgid "Exclude"
+#~ msgstr "Escludi"
+
+#~ msgid "one liner display exclusions"
+#~ msgstr "esclusioni vista in linea"
+
+#~ msgid "single display exclusions"
+#~ msgstr "esclusioni vista singola"
+
+#~ msgid "list display exclusions"
+#~ msgstr "esclusioni vista lista"
+
+#~ msgid "print display exclusions"
+#~ msgstr "esclusioni vista stampa"
+
+#~ msgid "element"
+#~ msgid_plural "elements"
+#~ msgstr[0] "elemento"
+#~ msgstr[1] "elementi"
+
+#~ msgid "Load/unload on daily document"
+#~ msgstr "Carico/scarico sul documento giornaliero"
+
+#~ msgid "Load/unload on alternate document"
+#~ msgstr "Carico/scarico su documento alternativo"
+
+#~ msgid "%d records saved successfully"
+#~ msgstr "%d record salvati con successo"
+
+#~ msgid "First item load of %s units successfully created in current document"
+#~ msgstr ""
+#~ "Primo carico del prodotto, di %s unità, creato nel documento corrente"
+
+#~ msgid "Created new %s for value %s, ID %d"
+#~ msgstr "Creato/a nuovo/a %s per il valore %s, ID %d"
+
+#~ msgid "Unable to delete this %s, %d elements make reference to it"
+#~ msgstr "Impossibile eliminare questo/a %s, %d elementi dipendono da esso"
+
+#~ msgid "Error during deletion of %s %d, database error"
+#~ msgstr "Errore durante l'eliminazione di %s %d, errore del database"
+
+#~ msgid "%s created successfully"
+#~ msgstr "%s creato con successo"
+
+#~ msgid "%s saved successfully"
+#~ msgstr "%s salvato con successo"
+
+#~ msgid "Error during edit of %s %d, passed ID %d does not match"
+#~ msgstr ""
+#~ "Errore durante la modifica di %s %d, ID specificato %d non corrisponde"
+
+#~ msgid "Create %s"
+#~ msgstr "Nuovo/a %s"
+
+#~ msgid "Load/Unload"
+#~ msgstr "Carico/Scarico"
+
+#~ msgid "new links"
+#~ msgstr "Crea"
+
+#~ msgid "tables"
+#~ msgstr "tabelle"
+
+#~ msgid "other"
+#~ msgstr "altro"
+
+#~ msgid "%s %d deleted successfully"
+#~ msgstr "%s %d eliminato/a con successo"
+
+#~ msgid "Insert the unload value"
+#~ msgstr "Inserisci il valore di scarico"
+
+#~ msgid "Unload cannot be positive"
+#~ msgstr "Lo scarico non può essere positivo"
+
+#~ msgid "The unload %s seems too big"
+#~ msgstr "Lo scarico %s sembra eccessivo"
+
+#~ msgid "Do you confirm?"
+#~ msgstr "Confermi?"
+
+#~ msgid "Rapid unload performed successfully"
+#~ msgstr "Scarico rapido eseguito con successo"
+
+#~ msgid "%s %d saved successfully"
+#~ msgstr "%s %d salvato/a con successo"
+
+#~ msgid "No visible options in this section"
+#~ msgstr "Nessuna opzione disponibile in questa sezione"
+
+#~ msgid "warning limit for excessive loading/unloading"
+#~ msgstr "limite per l'avviso di scarichi eccessivi"
+
+#~ msgid "days to keep log files before deleting them automatically"
+#~ msgstr "elimina automaticamente i file di registro più di tot giorni"
+
+#~ msgid "Skip one liner display %s - %s"
+#~ msgstr "Nascondi in visualizzazione in linea %s - %s"
+
+#~ msgid "one liner display"
+#~ msgstr "Visualizzazione in linea"
+
+#~ msgid "Skip single display %s - %s"
+#~ msgstr "Nascondi in visualizzazione singola %s - %s"
+
+#~ msgid "single display"
+#~ msgstr "Visualizzazione singola"
+
+#~ msgid "Skip list display %s - %s"
+#~ msgstr "Nascondi in visualizzazione lista %s - %s"
+
+#~ msgid "list display"
+#~ msgstr "Visualizzazione lista"
+
+#~ msgid "Skip print %s - %s"
+#~ msgstr "Nascondi in visualizzazione di stampa %s - %s"
+
+#~ msgid "print display"
+#~ msgstr "Visualizzazione di stampa"
+
+#~ msgid "Insert the change value"
+#~ msgstr "Inserisci il valore del movimento"
+
+#~ msgid "The change %s seems too big"
+#~ msgstr "Il movimento %s sembra esagerato"
+
+#~ msgid "You are ___loading___ %s units in the daily document"
+#~ msgstr "Stai ___caricando___ %s unità nel documento giornaliero"
+
+#~ msgid "You are ___unloading___ %s units from an alternate document"
+#~ msgstr "Stai ___scaricando___ %s unità da un documento alternativo"
+
+#~ msgid "ask confirmation for loading in daily document"
+#~ msgstr ""
+#~ "chiedi conferma prima di accettare carichi sul documento giornaliero"
+
+#~ msgid "ask confirmation for unloading in alternate document"
+#~ msgstr ""
+#~ "chiedi conferma prima di accettare scarichi da un documento alternativo"
+
+#~ msgid "limit beyond which warn for excessive loading/unloading"
+#~ msgstr "limite oltre"
+
+#~ msgid "change limit warning"
+#~ msgstr "limite per l'avviso di carico/scarico"
+
+#~ msgid "Rapid delete"
+#~ msgstr "Eliminazione rapida"
+
+#~ msgid "You are working on an alternate document, not on the daily document"
+#~ msgstr ""
+#~ "Stai lavorando su un documento alternativo, non sul giornaliero di oggi"
+
+#~ msgid "[automatic]"
+#~ msgstr "[automatico]"
+
+#~ msgid "Document %s set as current"
+#~ msgstr "%s impostato come documento corrente"
+
+#~ msgid "Set as current document"
+#~ msgstr "Imposta come documento attivo"
+
+#~ msgid "Click to clone this item"
+#~ msgstr "Clicca per clonare questo prodotto"
+
+#~ msgid "Click to load/unload this item"
+#~ msgstr "Clicca per carico/scarico di questo prodotto"
+
+#~ msgid "hide item date columns in lists"
+#~ msgstr "nascondi le date dei prodotti"
+
+#~ msgid "Max length of field %s.%s is %d"
+#~ msgstr "La lunghezza massima del campo %s%s è %d"
+
+#~ msgid "Missing property %s in the default schema of %s.%s"
+#~ msgstr "Proprietà %s mancante nello schema predefinito di %s.%s"
+
+#~ msgid "Missing property %s in the current schema of %s.%s"
+#~ msgstr "Proprietà %s mancante nello schema corrente di %s.%s"
+
+#~ msgid ""
+#~ "Data into %s.%s occupies at least %d character, you will truncate it if "
+#~ "you reduce the size to %d"
+#~ msgstr ""
+#~ "I dati nella colonna %s.%s occupano almeno %d caratteri, li troncherai se "
+#~ "riduci la dimensione a %d"
+
+#~ msgid "Item gallery"
+#~ msgstr "Galleria prodotto"
+
+#~ msgid "Logging folder %s is not valid"
+#~ msgstr "La cartella di registro %s non è valida"
+
+#~ msgid "Unable to create logging folder %s"
+#~ msgstr "Impossibile creare la cartella di registro %s"
+
+#~ msgid "No search field specified"
+#~ msgstr "Nessun campo di ricerca specificato"
+
+#~ msgid "Search returned no results"
+#~ msgstr "La ricerca non ha prodotto alcun risultato"
+
+#~ msgid "Still %d buffers to flush"
+#~ msgstr "Ancora %d buffer da scaricare (errore tecnico)"
+
+#~ msgid "Change price"
+#~ msgstr "Valore movimento"
+
+#~ msgid "Field check"
+#~ msgstr "Controllo campi"
+
+#~ msgid "You are loading in the daily document"
+#~ msgstr "Stai effettuando un ___carico___ sul documento giornaliero"
+
+#~ msgid "You are unloading in an alternate document"
+#~ msgstr "Stai effettuando uno ___scarico___ da un documento alternativo"
+
+#~ msgid "%s %d created successfully"
+#~ msgstr "%s %d creato/a con successo"
+
+#~ msgid ""
+#~ "each multiplier can contain only digits with an optional decimal part "
+#~ "separated by a comma or a period, multiple multipliers separated by a "
+#~ "semicolon, examples: \"2,2\" (one multiplier), \"1.5;2\" (two multipliers)"
+#~ msgstr ""
+#~ "ogni moltiplicatore può contenere solo cifre, con una parte decimale "
+#~ "opzionale separata da un punto o una virgola, più moltiplicatori vanno "
+#~ "separati con un punto e virgola, esempi:  \"2,2\" (un moltiplicatore), "
+#~ "\"1.5;2\" (due moltiplicatori)"
+
+#~ msgid "The change %s seems too big, confirm it?"
+#~ msgstr "Il movimento %s sembra esagerato, lo confermi?"
+
+#~ msgid "Invalid column %s in record %s"
+#~ msgstr "Colonna %s non valida nel record %s"
+
+#~ msgid "ID \"%d\" not found as %s"
+#~ msgstr "ID \"%d\" non trovato come %s"
+
+#~ msgid "Create new item with this barcode"
+#~ msgstr "Crea nuovo prodotto con questo codice"
+
+#~ msgid "Rapid unload cancelled"
+#~ msgstr "Scarico rapido annullato"
+
+#~ msgid "other links"
+#~ msgstr "Altro"
+
+#~ msgid "Show/hide list of affected elements"
+#~ msgstr "Mostra/nascondi lista elementi influenzati"
+
+#~ msgid "Load/unload Item"
+#~ msgstr "Carico/Scarico Prodotto"
+
+#~ msgid ""
+#~ "Press F7 keyboard button in any page to display the rapid theme editing "
+#~ "dialog. The dialog will show theme options for the element under the "
+#~ "mouse cursor and all of its ancestors. Changes made in that dialog will "
+#~ "be immediately saved into the currently active theme."
+#~ msgstr "Premi il tasto F7 in qu"
+
+#~ msgid "SELECT"
+#~ msgstr "CASELLADISCESA"
+
+#~ msgid "search links"
+#~ msgstr "Cerca"
+
+#~ msgid "ANCHOR"
+#~ msgstr "LINK"
+
+#~ msgid "ROW"
+#~ msgstr "RIGA"
+
+#~ msgid "ZEBRA"
+#~ msgstr "PARI/DISPARI"
+
+#~ msgid "SELECTED"
+#~ msgstr "SELEZIONATO"
+
+#~ msgid "Show/hide search form"
+#~ msgstr "Mostra/nascondi modulo di ricerca"
+
+#~ msgid "Delete %s"
+#~ msgstr "Elimina %s"
+
+#~ msgid "Error during deletion of %s %d, passed ID %d does not match"
+#~ msgstr ""
+#~ "Errore durante l'eliminazione di %s %d, ID specificato %d non corrisponde"
+
+#~ msgid "EVEN"
+#~ msgstr "PARI"
+
+#~ msgid "ODD"
+#~ msgstr "DISPARI"
+
+#~ msgid "VALUE"
+#~ msgstr "VALORE"
+
+#~ msgid "Manage theme %s"
+#~ msgstr "Gestisci tema %s"
+
+#~ msgid "Clone theme %s"
+#~ msgstr "Clona tema %s"
+
+#~ msgid "Please specify a barcode to search"
+#~ msgstr "Specifica un codice a barre da cercare"
+
+#~ msgid "Edit theme"
+#~ msgstr "Modifica tema"
+
+#~ msgid "Theme reset to default values"
+#~ msgstr "Tema ripristinato ai valori predefiniti"
+
+#~ msgid "Theme saved"
+#~ msgstr "Tema salvato"
+
+#~ msgid "Save theme"
+#~ msgstr "Salva tema"
+
+#~ msgid "Reset to default"
+#~ msgstr "Ripristina il tema di default"
+
+#~ msgid "Custom theme not found, using basic settings"
+#~ msgstr "Tema personalizzato non trovato, utilizzo i "
+
+#~ msgid "IDLIST"
+#~ msgstr "LISTAMASSA"
+
+#~ msgid "Theme changer"
+#~ msgstr "Modifica tema"
+
+#~ msgid "SCREEN"
+#~ msgstr "SCHERMO"
+
+#~ msgid "SUGGESTION"
+#~ msgstr "SUGGERIMENTO"
+
+#~ msgid "Field %s contains an invalid value %s"
+#~ msgstr "Il campo %s contiene un valore non  valido %s"
+
+#~ msgid "Edit of %s %d cancelled"
+#~ msgstr "Modifica di %s %d annullata"
+
+#~ msgid "The following fields are required: %s"
+#~ msgstr "I seguenti campi sono obbligatori: %s"
+
+#~ msgid "Deletion of %s %d cancelled"
+#~ msgstr "Eliminazione di %s %d annullata"
+
+#~ msgid "Back"
+#~ msgstr "Indietro"
+
+#~ msgid "Items fixer"
+#~ msgstr "Correggi Giacenze"
+
+#~ msgid "Cannot set stock to a negative value"
+#~ msgstr "Giacenza negativa non permessa"
+
+#~ msgid "Invalid item ID in AJAX request"
+#~ msgstr "ID non valido nella richiesta AJAX"
+
+#~ msgid "Stock for item %s successfully updated and set as verified"
+#~ msgstr "Giacenza del prodotto %s aggiornata e verificata"
+
+#~ msgid "Creating a backup is advised before performing mass edits: %s"
+#~ msgstr ""
+#~ "Si consiglia la creazione di un backup prima di effettuare modifiche di "
+#~ "massa:"
+
+#~ msgid "none"
+#~ msgstr "nessuno"
+
+#~ msgid "field check"
+#~ msgstr "Controllo campi"
+
+#~ msgid "database backup"
+#~ msgstr "Backup del database"
+
+#~ msgid "delete duplicated records"
+#~ msgstr "Elimina record duplicati"
+
+#~ msgid "delete unused records"
+#~ msgstr "Elimina record non utilizzati"
+
+#~ msgid "-- other links --"
+#~ msgstr "altri link"
+
+#~ msgid "model"
+#~ msgstr "Modello"
+
+#~ msgid ""
+#~ "You can use \"less than (<)\" and \"more than (>)\" operators, examples:"
+#~ msgstr ""
+#~ "Puoi usare gli operatori \"minore di (<)\" e \"maggiore di (>)\", ad "
+#~ "esempio:"
+
+#~ msgid "Delete this"
+#~ msgstr "Elimina questo/a"
+
+#~ msgid "Create new %s"
+#~ msgstr "Crea nuovo/a %s"
+
+#~ msgid "Unable to store JSON file, data follows"
+#~ msgstr "Impossibile memorizzare il file JSON, seguono i dati"
+
+#~ msgid "Record of type %s with ID %d deleted"
+#~ msgstr "Record di tipo %s con ID %d eliminato"
+
+#~ msgid "Key"
+#~ msgstr "Chiave"
+
+#~ msgid "Value"
+#~ msgstr "Valore"
+
+#~ msgid "Active document"
+#~ msgstr "Documento corrente"
+
+#~ msgid "list"
+#~ msgstr "Lista"
+
+#~ msgid "display"
+#~ msgstr "Visualizza"
+
+#~ msgid "ID not found"
+#~ msgstr "ID non trovato"
+
+#~ msgid "[auto generated]"
+#~ msgstr "[generato automaticamente]"
+
+#~ msgid "Column `%s` not found"
+#~ msgstr "Colonna `%s` non trovata"
+
+#~ msgid "first page"
+#~ msgstr "Prima pag."
+
+#~ msgid "page %s"
+#~ msgstr "Pag. %s"
+
+#~ msgid "last page"
+#~ msgstr "Ultima pag."
+
+#~ msgid "save"
+#~ msgstr "Salva"
+
+#~ msgid "list of all"
+#~ msgstr "Lista"
+
+#~ msgid "Path not %s found"
+#~ msgstr "Percorso"
+
+#~ msgid "Path not found"
+#~ msgstr "Percorso non trovato"
+
+#~ msgid "path not found"
+#~ msgstr "Percorso non trovato"
